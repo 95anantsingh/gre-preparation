@@ -1,4 +1,4 @@
-# Criticism & Disapproval
+# 📛 Criticism & Disapproval
 
 ## Main Mindmap
 

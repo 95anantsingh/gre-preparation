@@ -155,10 +155,8 @@ mindmap
         (_Standard of measure_)
 ```
 
-<vocabulary_table>
-
-| Word              | Definition                                                                                                            | Memory Hook                                              | Example Sentence                                                          |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Word              | Phonetics | Definition                                                                                                            | Memory Hook                                              | Example Sentence                                                          |
+| ----------------- | --- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------- |
 | **impartial**     | Treating all rivals or disputants equally; fair and just                                                              | **IM-PART**-ial → Not taking **PART**                    | The referee must be **impartial**.                                        |
 | **disinterested** | Not influenced by considerations of personal advantage                                                                | **DIS-INTEREST**-ed → No **INTEREST** (stake) in outcome | We need a **disinterested** observer to judge the competition.            |
 | **dispassionate** | Not influenced by strong emotion, and so able to be rational and impartial                                            | **DIS-PASSION**-ate → No **PASSION** (bias)              | The journalist gave a **dispassionate** account of the events.            |
@@ -169,8 +167,6 @@ mindmap
 | **paradigm**      | A typical example or pattern of something; a model                                                                    | **PARA-DIGM** → **PARA**llel **DIG**ram                  | The discovery shifted the scientific **paradigm**.                        |
 | **normative**     | Establishing, relating to, or deriving from a standard or norm, especially of behavior                                | **NORM**-ative → Setting the **NORM**                    | The study provides **normative** data on child development.               |
 | **benchmark**     | A standard or point of reference against which things may be compared or assessed                                     | **BENCH-MARK** → Mark on a bench to measure              | This new computer sets the **benchmark** for speed and performance.       |
-
-</vocabulary_table>
 
 ### Bias & Partiality
 
@@ -220,10 +216,8 @@ mindmap
         (_Narrow, unsophisticated_)
 ```
 
-<vocabulary_table>
-
-| Word             | Definition                                                                                                             | Memory Hook                                            | Example Sentence                                                                |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| Word             | Phonetics | Definition                                                                                                             | Memory Hook                                            | Example Sentence                                                                |
+| ---------------- | --- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------- |
 | **partial**      | Favoring one side in a dispute above the other; biased                                                                 | **PART**-ial → Taking a **PART**                       | The referee was accused of being **partial** to the home team.                  |
 | **partisan**     | A strong supporter of a party, cause, or person                                                                        | **PART**-isan → Takes a **PART** (side)                | The debate became highly **partisan**.                                          |
 | **tendentious**  | Expressing or intending to promote a particular cause or point of view, especially a controversial one                 | **TEND**-entious → **TEND**ency to bias                | The article was criticized for its **tendentious** reporting.                   |
@@ -234,8 +228,6 @@ mindmap
 | **doctrinaire**  | Seeking to impose a doctrine in all circumstances without regard to practical considerations                           | **DOCTRIN**-aire → **DOCTRIN**e airhead                | His **doctrinaire** approach alienated many potential supporters.               |
 | **myopic**       | Nearsighted; lacking imagination, foresight, or intellectual insight                                                   | **MY-OPIC** → **MY** **OP**tics (eyes) only see close  | The company's **myopic** focus on short-term profits hurt its long-term growth. |
 | **provincial**   | Of or concerning a province of a country or empire; unsophisticated or narrow-minded                                   | **PROVINC**-ial → From the **PROVINC**es (countryside) | His **provincial** attitude annoyed the city dwellers.                          |
-
-</vocabulary_table>
 
 ### Deciding & Choosing
 
@@ -298,10 +290,8 @@ mindmap
         (_Make educated guess_)
 ```
 
-<vocabulary_table>
-
-| Word               | Definition                                                                                   | Memory Hook                                                   | Example Sentence                                              |
-| ------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
+| Word               | Phonetics | Definition                                                                                   | Memory Hook                                                   | Example Sentence                                              |
+| ------------------ | --- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
 | **deem**           | Regard or consider in a specified way                                                        | **DEEM** → **D**ecide/est**EEM**                              | The building was **deemed** unsafe by the inspectors.         |
 | **arbiter**        | A person who settles a dispute or has ultimate authority in a matter                         | **ARBIT**-er → **ARBIT**rator                                 | The Supreme Court is the final **arbiter** of the law.        |
 | **discriminating** | Having or showing refined taste or good judgment                                             | **DISCRIMIN**-ating → **DISCRIMIN**ating between good and bad | She is a **discriminating** collector of modern art.          |
@@ -318,8 +308,6 @@ mindmap
 | **posit**          | Assume as a fact; put forward as a basis of argument                                         | **POSIT**-ion → Put in **POSIT**ion                           | The theory **posits** that the universe is expanding.         |
 | **surmise**        | Suppose that something is true without having evidence to confirm it                         | **SUR-MISE** → **SUR** (over) **MISE** (put/guess)            | I **surmised** that he was angry from his tone of voice.      |
 | **speculate**      | Form a theory or conjecture about a subject without firm evidence                            | **SPEC**-ulate → **SPEC**tator guessing                       | We can only **speculate** about the future.                   |
-
-</vocabulary_table>
 
 ### Moral Judgment
 
@@ -374,10 +362,8 @@ mindmap
         (_Status, rank_)
 ```
 
-<vocabulary_table>
-
-| Word               | Definition                                                                                                    | Memory Hook                                            | Example Sentence                                                  |
-| ------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------- |
+| Word               | Phonetics | Definition                                                                                                    | Memory Hook                                            | Example Sentence                                                  |
+| ------------------ | --- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------- |
 | **principled**     | (of a person or their behavior) acting in accordance with morality and showing recognition of right and wrong | **PRINCIPL**-ed → Follows **PRINCIPL**es               | She took a **principled** stand against the corruption.           |
 | **probity**        | The quality of having strong moral principles; honesty and decency                                            | **PROB**-ity → **PROB**ing finds nothing wrong         | The judge was known for his **probity** and fairness.             |
 | **sacrosanct**     | (especially of a principle, place, or routine) regarded as too important or valuable to be interfered with    | **SACRO-SANCT** → **SACR**ed and **SANCT**ified        | The weekend schedule is **sacrosanct**; we never work on Sundays. |
@@ -390,8 +376,6 @@ mindmap
 | **credibility**    | The quality of being trusted and believed in                                                                  | **CRED**-ibility → **CRED**it                          | The scandal damaged the politician's **credibility**.             |
 | **notoriety**      | The state of being famous or well known for some bad quality or deed                                          | **NOTOR**-iety → **NOTOR**ious                         | The gangster achieved **notoriety** for his brutal crimes.        |
 | **standing**       | Status, rank                                                                                                  | -                                                      | Her **standing** in the community was high.                       |
-
-</vocabulary_table>
 
 ### Evaluation
 
@@ -444,10 +428,8 @@ mindmap
         (_Delay, prevent_)
 ```
 
-<vocabulary_table>
-
-| Word             | Definition                                                                            | Memory Hook                                                | Example Sentence                                                                        |
-| ---------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Word             | Phonetics | Definition                                                                            | Memory Hook                                                | Example Sentence                                                                        |
+| ---------------- | --- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | **qualified**    | Not complete or absolute; limited                                                     | **QUALIFI**-ed → **QUALIFI**cations added                  | The plan was a **qualified** success.                                                   |
 | **warranted**    | Justify or necessitate (a certain course of action)                                   | **WARRANT**-ed → With a **WARRANT** (permission)           | The criticism was **warranted** given the poor performance.                             |
 | **commensurate** | Corresponding in size or degree; in proportion                                        | **CO-MENSUR**-ate → **MENSUR** (measure) together          | Her salary is **commensurate** with her experience and skills.                          |
@@ -459,8 +441,6 @@ mindmap
 | **dismiss**      | Treat as unworthy of serious consideration                                            | **DIS-MISS** → **MISS** the point/send away                | He **dismissed** the idea as impractical.                                               |
 | **table**        | Postpone consideration of                                                             | **TABLE** → Put on the **TABLE** for later                 | Let's **table** this discussion until the next meeting.                                 |
 | **forestall**    | Prevent or obstruct (an anticipated event or action) by taking action ahead of time   | **FORE-STALL** → **STALL** be**FORE**                      | He tried to **forestall** the criticism by admitting his mistake early.                 |
-
-</vocabulary_table>
 
 ---
 

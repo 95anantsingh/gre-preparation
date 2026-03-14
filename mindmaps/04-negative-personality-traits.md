@@ -398,17 +398,17 @@ mindmap
         (_Calm, dependable, and showing little emotion or animation_)
 ```
 
-| Word           | Definition                                                                                                                | Memory Hook                                        | Example Sentence                                                               |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------ |
-| **indolent**   | Wanting to avoid activity or exertion; lazy                                                                               | **IN-DOL**-ent → **IN** (not) **DO**ing            | The **indolent** teenager slept until noon every day of his summer vacation.   |
-| **lethargic**  | Affected by lethargy; sluggish and apathetic                                                                              | **LETHARG**-ic → **LETHARG**y                      | The hot weather made everyone feel **lethargic**.                              |
-| **languid**    | (of a person, manner, or gesture) displaying or having a disinclination for physical exertion or effort; slow and relaxed | **LANG**-uid → **LANG**uish                        | They spent a **languid** afternoon lying in the hammock.                       |
-| **torpor**     | A state of physical or mental inactivity; lethargy                                                                        | **TORP**-or → **TORP**edoed energy                 | The bear spent the winter in a state of **torpor**.                            |
-| **listless**   | (of a person or their manner) lacking energy or enthusiasm                                                                | **LIST**-less → **LESS** energy to make a **LIST** | The fever left him feeling weak and **listless**.                              |
-| **apathy**     | Lack of interest, enthusiasm, or concern                                                                                  | **A-PATH**-y → No **PATH** or feeling              | Voter **apathy** led to a very low turnout in the election.                    |
-| **phlegmatic** | (of a person) having an unemotional and stolidly calm disposition                                                         | **PHLEG**-matic → **PHLEGM** (slow moving fluid)   | The **phlegmatic** driver didn't even blink when the other car cut him off.    |
-| **aloof**      | Not friendly or forthcoming; cool and distant                                                                             | **A-LOOF** → Alone on the **ROOF**                 | The cat remained **aloof**, watching the guests from the top of the bookshelf. |
-| **stolid**     | (of a person) calm, dependable, and showing little emotion or animation                                                   | **STOL**-id → **SOL**id as a rock                  | The **stolid** guard stood at attention for hours without moving.              |
+| Word | Phonetics |Definition | Memory Hook | Example Sentence |
+| --- | --- | --- | --- | --- |
+| **indolent** | IN-duh-lunt | Wanting to avoid activity or exertion; lazy | **IN-DOL**-ent → **IN** (not) **DO**ing | The **indolent** teenager slept until noon every day of his summer vacation. |
+| **lethargic** | luh-THAR-jik | Affected by lethargy; sluggish and apathetic | **LETHARG**-ic → **LETHARG**y | The hot weather made everyone feel **lethargic**. |
+| **languid** | LANG-gwid | (of a person, manner, or gesture) displaying or having a disinclination for physical exertion or effort; slow and relaxed | **LANG**-uid → **LANG**uish | They spent a **languid** afternoon lying in the hammock. |
+| **torpor** | TOR-per | A state of physical or mental inactivity; lethargy | **TORP**-or → **TORP**edoed energy | The bear spent the winter in a state of **torpor**. |
+| **listless** | LIST-less | (of a person or their manner) lacking energy or enthusiasm | **LIST**-less → **LESS** energy to make a **LIST** | The fever left him feeling weak and **listless**. |
+| **apathy** | AP-uh-thee | Lack of interest, enthusiasm, or concern | **A-PATH**-y → No **PATH** or feeling | Voter **apathy** led to a very low turnout in the election. |
+| **phlegmatic** | fleg-MAT-ik | (of a person) having an unemotional and stolidly calm disposition | **PHLEG**-matic → **PHLEGM** (slow moving fluid) | The **phlegmatic** driver didn't even blink when the other car cut him off. |
+| **aloof** | uh-LOOF | Not friendly or forthcoming; cool and distant | **A-LOOF** → Alone on the **ROOF** | The cat remained **aloof**, watching the guests from the top of the bookshelf. |
+| **stolid** | STOL-id | (of a person) calm, dependable, and showing little emotion or animation | **STOL**-id → **SOL**id as a rock | The **stolid** guard stood at attention for hours without moving. |
 
 ### Stubbornness
 
@@ -449,14 +449,14 @@ mindmap
         (_Stubbornly or willfully disobedient to authority_)
 ```
 
-| Word             | Definition                                                                  | Memory Hook                                                          | Example Sentence                                                                     |
-| ---------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| **obstinate**    | Stubbornly refusing to change one's opinion or chosen course of action      | **OBSTIN**-ate → **OBSTIN**ate obstacle                              | He was too **obstinate** to ask for directions, so they drove around for hours.      |
-| **obdurate**     | Stubbornly refusing to change one's opinion or course of action             | **OB-DUR**-ate → **DUR**able (hard) obstacle                         | Despite the evidence, he remained **obdurate** in his refusal to admit he was wrong. |
-| **intransigent** | Unwilling or refusing to change one's views or to agree about something     | **IN-TRANS**-igent → Not **TRANS**itioning                           | The **intransigent** union leaders refused to compromise on their demands.           |
-| **recalcitrant** | Having an obstinately uncooperative attitude toward authority or discipline | **RE-CALC**-itrant → **CALC**ified (hard) against rules              | The **recalcitrant** mule refused to move no matter how much they pulled.            |
-| **refractory**   | Stubborn or unmanageable                                                    | **REFRACT**-ory → **FRACT**ure rules                                 | The **refractory** infection did not respond to antibiotics.                         |
-| **contumacious** | Stubbornly or willfully disobedient to authority                            | **CONTUM**-acious → **CONT**rary to **TUM**my (gut feeling of rules) | The **contumacious** rebel refused to appear in court.                               |
+| Word | Phonetics |Definition | Memory Hook | Example Sentence |
+| --- | --- | --- | --- | --- |
+| **obstinate** | OB-sti-nit | Stubbornly refusing to change one's opinion or chosen course of action | **OBSTIN**-ate → **OBSTIN**ate obstacle | He was too **obstinate** to ask for directions, so they drove around for hours. |
+| **obdurate** | OB-doo-rit | Stubbornly refusing to change one's opinion or course of action | **OB-DUR**-ate → **DUR**able (hard) obstacle | Despite the evidence, he remained **obdurate** in his refusal to admit he was wrong. |
+| **intransigent** | in-TRAN-si-jent | Unwilling or refusing to change one's views or to agree about something | **IN-TRANS**-igent → Not **TRANS**itioning | The **intransigent** union leaders refused to compromise on their demands. |
+| **recalcitrant** | ri-KAL-si-trant | Having an obstinately uncooperative attitude toward authority or discipline | **RE-CALC**-itrant → **CALC**ified (hard) against rules | The **recalcitrant** mule refused to move no matter how much they pulled. |
+| **refractory** | ri-FRAK-tor-ee | Stubborn or unmanageable | **REFRACT**-ory → **FRACT**ure rules | The **refractory** infection did not respond to antibiotics. |
+| **contumacious** | kon-too-MAY-shus | Stubbornly or willfully disobedient to authority | **CONTUM**-acious → **CONT**rary to **TUM**my (gut feeling of rules) | The **contumacious** rebel refused to appear in court. |
 
 ### Excess & Immorality
 
@@ -504,17 +504,17 @@ mindmap
         (_Childishly silly and trivial_)
 ```
 
-| Word           | Definition                                                                                                                  | Memory Hook                                        | Example Sentence                                                              |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **profligate** | Recklessly extravagant or wasteful in the use of resources                                                                  | **PRO-FLIG**-ate → **FLIG**ht of money away        | The **profligate** spending of the government led to a massive deficit.       |
-| **libertine**  | A person, especially a man, who behaves without moral principles or a sense of responsibility, especially in sexual matters | **LIBERT**-ine → **LIBERT**y taken too far         | The novel depicts the life of a wealthy **libertine** in 18th-century France. |
-| **licentious** | Promiscuous and unprincipled in sexual matters                                                                              | **LICENT**-ious → **LICENSE** to do anything       | The **licentious** behavior at the party shocked the neighbors.               |
-| **wanton**     | (of a cruel or violent action) deliberate and unprovoked                                                                    | **WANT**-on → **WANT**ing to do bad                | The vandals caused **wanton** destruction to the park.                        |
-| **turpitude**  | Depravity; wickedness                                                                                                       | **TURP**-itude → **TURP**entine (dirty solvent)    | He was fired for moral **turpitude** after stealing from the company.         |
-| **reprobate**  | An unprincipled person (often used humorously or affectionately)                                                            | **RE-PROB**-ate → **PROB**lem person               | That old **reprobate** has been drinking at the pub since noon.               |
-| **boor**       | An unrefined, ill-mannered person                                                                                           | **BOOR** → **BOAR** (pig-like)                     | He acted like a **boor** at the dinner party, chewing with his mouth open.    |
-| **gauche**     | Lacking ease or grace; unsophisticated and socially awkward                                                                 | **GAUCHE** (left in French) → Left-handed (clumsy) | It was **gauche** of him to ask how much money she made.                      |
-| **puerile**    | Childishly silly and trivial                                                                                                | **PUER**-ile → **PUER** (boy in Latin)             | His **puerile** jokes were not appropriate for a business meeting.            |
+| Word | Phonetics |Definition | Memory Hook | Example Sentence |
+| --- | --- | --- | --- | --- |
+| **profligate** | PROF-li-git | Recklessly extravagant or wasteful in the use of resources | **PRO-FLIG**-ate → **FLIG**ht of money away | The **profligate** spending of the government led to a massive deficit. |
+| **libertine** | LIB-er-teen | A person, especially a man, who behaves without moral principles or a sense of responsibility, especially in sexual matters | **LIBERT**-ine → **LIBERT**y taken too far | The novel depicts the life of a wealthy **libertine** in 18th-century France. |
+| **licentious** | ly-SEN-shus | Promiscuous and unprincipled in sexual matters | **LICENT**-ious → **LICENSE** to do anything | The **licentious** behavior at the party shocked the neighbors. |
+| **wanton** | WON-ton | (of a cruel or violent action) deliberate and unprovoked | **WANT**-on → **WANT**ing to do bad | The vandals caused **wanton** destruction to the park. |
+| **turpitude** | TUR-pi-tood | Depravity; wickedness | **TURP**-itude → **TURP**entine (dirty solvent) | He was fired for moral **turpitude** after stealing from the company. |
+| **reprobate** | REP-ruh-bate | An unprincipled person (often used humorously or affectionately) | **RE-PROB**-ate → **PROB**lem person | That old **reprobate** has been drinking at the pub since noon. |
+| **boor** | BOOR | An unrefined, ill-mannered person | **BOOR** → **BOAR** (pig-like) | He acted like a **boor** at the dinner party, chewing with his mouth open. |
+| **gauche** | GOHSH | Lacking ease or grace; unsophisticated and socially awkward | **GAUCHE** (left in French) → Left-handed (clumsy) | It was **gauche** of him to ask how much money she made. |
+| **puerile** | PYOO-er-ile | Childishly silly and trivial | **PUER**-ile → **PUER** (boy in Latin) | His **puerile** jokes were not appropriate for a business meeting. |
 
 ---
 

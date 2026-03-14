@@ -1,4 +1,4 @@
-# Positive Personality Traits
+# 😊 Positive Personality Traits
 
 ## Main Mindmap
 
