@@ -161,18 +161,18 @@ mindmap
         (_Shameless boldness_)
 ```
 
-| Word              | Definition                                                                                               | Memory Hook                                                    | Example Sentence                                                                         |
-| ----------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| **ostentatious**  | Characterized by vulgar or pretentious display; designed to impress or attract notice                    | **OSTENT**-atious → **OSTENT**atiously showing off             | She wore an **ostentatious** diamond necklace to the grocery store.                      |
-| **pretentious**   | Attempting to impress by affecting greater importance, talent, culture, etc., than is actually possessed | **PRETEND**-tious → **PRETEND**ing to be important             | The restaurant was **pretentious** and overpriced.                                       |
-| **bombastic**     | High-sounding but with little meaning; inflated                                                          | **BOMB**-astic → Speech like a **BOMB** (loud but destructive) | His **bombastic** speech was full of big words but offered no real solutions.            |
-| **grandiloquent** | Pompous or extravagant in language, style, or manner                                                     | **GRAND**-iloquent → **GRAND** speaking                        | The politician's **grandiloquent** promises turned out to be empty words.                |
-| **orotund**       | (of the voice or phrasing) full, round, and imposing                                                     | **ORO-TUND** → **ORO** (mouth) ro**TUND** (round)              | The actor's **orotund** voice filled the theater.                                        |
-| **grandstand**    | Seek to attract applause or favorable attention from spectators or the media                             | **GRANDSTAND** → Playing to the **GRANDSTAND** (audience)      | Instead of debating the issues, he chose to **grandstand** for the cameras.              |
-| **imperious**     | Assuming power or authority without justification; arrogant and domineering                              | **IMPER**-ious → **EMPER**or-like                              | She issued **imperious** commands to the waiters as if she owned the restaurant.         |
-| **arrogate**      | Take or claim (something) without justification                                                          | **ARROG**-ate → **ARROG**ant taking                            | The president tried to **arrogate** more power to himself than the constitution allowed. |
-| **presumptuous**  | Too bold or forward                                                                                      | **PRE-SUM**-ptuous → **PRE-SUM**ing too much                   | It was **presumptuous** of him to assume he was invited to the wedding.                  |
-| **effrontery**    | Insolent or impertinent behavior                                                                         | **EFFRONT**-ery → In **FRONT** of your face rudeness           | He had the **effrontery** to ask for a raise after being late every day for a month.     |
+| Word | Phonetics |Definition | Memory Hook | Example Sentence |
+| --- | --- | --- | --- | --- |
+| **ostentatious** | ah-sten-TAY-shus | Characterized by vulgar or pretentious display; designed to impress or attract notice | **OSTENT**-atious → **OSTENT**atiously showing off | She wore an **ostentatious** diamond necklace to the grocery store. |
+| **pretentious** | pree-TEN-shus | Attempting to impress by affecting greater importance, talent, culture, etc., than is actually possessed | **PRETEND**-tious → **PRETEND**ing to be important | The restaurant was **pretentious** and overpriced. |
+| **bombastic** | bom-BAS-tik | High-sounding but with little meaning; inflated | **BOMB**-astic → Speech like a **BOMB** (loud but destructive) | His **bombastic** speech was full of big words but offered no real solutions. |
+| **grandiloquent** | gran-DIL-o-kwent | Pompous or extravagant in language, style, or manner | **GRAND**-iloquent → **GRAND** speaking | The politician's **grandiloquent** promises turned out to be empty words. |
+| **orotund** | OR-o-tund | (of the voice or phrasing) full, round, and imposing | **ORO-TUND** → **ORO** (mouth) ro**TUND** (round) | The actor's **orotund** voice filled the theater. |
+| **grandstand** | GRAND-stand | Seek to attract applause or favorable attention from spectators or the media | **GRANDSTAND** → Playing to the **GRANDSTAND** (audience) | Instead of debating the issues, he chose to **grandstand** for the cameras. |
+| **imperious** | im-PEER-ee-us | Assuming power or authority without justification; arrogant and domineering | **IMPER**-ious → **EMPER**or-like | She issued **imperious** commands to the waiters as if she owned the restaurant. |
+| **arrogate** | AR-o-gate | Take or claim (something) without justification | **ARROG**-ate → **ARROG**ant taking | The president tried to **arrogate** more power to himself than the constitution allowed. |
+| **presumptuous** | pre-ZUMP-choo-us | Too bold or forward | **PRE-SUM**-ptuous → **PRE-SUM**ing too much | It was **presumptuous** of him to assume he was invited to the wedding. |
+| **effrontery** | eh-FRUN-ter-ee | Insolent or impertinent behavior | **EFFRONT**-ery → In **FRONT** of your face rudeness | He had the **effrontery** to ask for a raise after being late every day for a month. |
 
 ### Cowardice & Weakness
 
@@ -220,17 +220,17 @@ mindmap
         (_Prostrate oneself in subservience_)
 ```
 
-| Word              | Definition                                                                         | Memory Hook                                             | Example Sentence                                                                  |
-| ----------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| **craven**        | Contemptibly lacking in courage; cowardly                                          | **CRAVEN** → **CAVE**-in (hiding in a cave)             | The **craven** soldier hid in the ditch while his comrades fought.                |
-| **pusillanimous** | Showing a lack of courage or determination; timid                                  | **PUSSY**-llanimous → Scaredy-cat                       | The **pusillanimous** leader refused to take a stand on the controversial issue.  |
-| **timorous**      | Showing or suffering from nervousness, fear, or a lack of confidence               | **TIM**-orous → **TIM**id                               | The **timorous** mouse scurried across the floor.                                 |
-| **diffident**     | Modest or shy because of a lack of self-confidence                                 | **DIFF**-ident → **DIFF**icult to be conf**IDENT**      | The **diffident** student was afraid to raise her hand in class.                  |
-| **obsequious**    | Obedient or attentive to an excessive or servile degree                            | **OB-SEQUI**-ous → **SEQUI** (follow) like a servant    | The **obsequious** waiter bowed every time he brought a dish.                     |
-| **sycophant**     | A person who acts obsequiously toward someone important in order to gain advantage | **SYCO**-phant → **SICK**-o-phant (sickening flatterer) | The dictator was surrounded by **sycophants** who agreed with everything he said. |
-| **toady**         | A person who behaves obsequiously to someone important                             | **TOAD**-y → Like a **TOAD**                            | He is just a **toady** who does whatever the boss says.                           |
-| **fawn**          | Give a servile display of exaggerated flattery or affection                        | **FAWN** (baby deer) → Weak and cute to get love        | The interns **fawned** over the CEO, hoping for a promotion.                      |
-| **grovel**        | Act in an obsequious manner in order to obtain someone's forgiveness or favor      | **GROVEL** → **GRAVEL** (face in the dirt)              | He had to **grovel** to his boss to get his job back.                             |
+| Word | Phonetics |Definition | Memory Hook | Example Sentence |
+| --- | --- | --- | --- | --- |
+| **craven** | KRAY-ven | Contemptibly lacking in courage; cowardly | **CRAVEN** → **CAVE**-in (hiding in a cave) | The **craven** soldier hid in the ditch while his comrades fought. |
+| **pusillanimous** | pyoo-sil-AN-ih-mus | Showing a lack of courage or determination; timid | **PUSSY**-llanimous → Scaredy-cat | The **pusillanimous** leader refused to take a stand on the controversial issue. |
+| **timorous** | TIM-er-us | Showing or suffering from nervousness, fear, or a lack of confidence | **TIM**-orous → **TIM**id | The **timorous** mouse scurried across the floor. |
+| **diffident** | DIF-i-dent | Modest or shy because of a lack of self-confidence | **DIFF**-ident → **DIFF**icult to be conf**IDENT** | The **diffident** student was afraid to raise her hand in class. |
+| **obsequious** | ob-SEE-kwee-us | Obedient or attentive to an excessive or servile degree | **OB-SEQUI**-ous → **SEQUI** (follow) like a servant | The **obsequious** waiter bowed every time he brought a dish. |
+| **sycophant** | SIK-o-fant | A person who acts obsequiously toward someone important in order to gain advantage | **SYCO**-phant → **SICK**-o-phant (sickening flatterer) | The dictator was surrounded by **sycophants** who agreed with everything he said. |
+| **toady** | TOH-dee | A person who behaves obsequiously to someone important | **TOAD**-y → Like a **TOAD** | He is just a **toady** who does whatever the boss says. |
+| **fawn** | FAWN | Give a servile display of exaggerated flattery or affection | **FAWN** (baby deer) → Weak and cute to get love | The interns **fawned** over the CEO, hoping for a promotion. |
+| **grovel** | GROV-el | Act in an obsequious manner in order to obtain someone's forgiveness or favor | **GROVEL** → **GRAVEL** (face in the dirt) | He had to **grovel** to his boss to get his job back. |
 
 ### Bad Temper & Hostility
 
@@ -278,17 +278,17 @@ mindmap
         (_Furiously angry, enraged_)
 ```
 
-| Word           | Definition                                              | Memory Hook                                                 | Example Sentence                                                                     |
-| -------------- | ------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| **irascible**  | Having or showing a tendency to be easily angered       | **IRAS**-cible → **IRATE**-able                             | The **irascible** coach threw his clipboard on the ground after the bad call.        |
-| **fractious**  | (typically of children) irritable and quarrelsome       | **FRACT**-ious → **FRACT**ure peace                         | The **fractious** child screamed and kicked when he didn't get his way.              |
-| **dyspeptic**  | Having indigestion or a consequent irritable depression | **DYS-PEP**-tic → **DYS** (bad) **PEP**si (stomach)         | The **dyspeptic** old man complained about everything on the menu.                   |
-| **surly**      | Bad-tempered and unfriendly                             | **SUR**-ly → **SIR**-ly (acting like a mean lord)           | The **surly** bus driver yelled at the passengers to move back.                      |
-| **truculent**  | Eager or quick to argue or fight; aggressively defiant  | **TRUCK**-ulent → Like a **TRUCK** coming at you            | The **truculent** teenager slammed the door in his mother's face.                    |
-| **pugnacious** | Eager or quick to argue, quarrel, or fight              | **PUG**-nacious → Like a **PUG** dog / **PUG**ilist (boxer) | The **pugnacious** hockey player spent more time in the penalty box than on the ice. |
-| **antagonize** | Cause (someone) to become hostile                       | **ANTAGON**-ize → Create an **ANTAGON**ist                  | Don't **antagonize** the dog, or it might bite you.                                  |
-| **inimical**   | Tending to obstruct or harm                             | **INIM**-ical → **ENEM**y-like                              | High inflation is **inimical** to economic growth.                                   |
-| **livid**      | Furiously angry                                         | **LIVID** → **LIV**ing dead (pale with rage)                | He was **livid** when he found out his car had been stolen.                          |
+| Word | Phonetics |Definition | Memory Hook | Example Sentence |
+| --- | --- | --- | --- | --- |
+| **irascible** | ih-RAS-uh-bull | Having or showing a tendency to be easily angered | **IRAS**-cible → **IRATE**-able | The **irascible** coach threw his clipboard on the ground after the bad call. |
+| **fractious** | FRAK-shus | (typically of children) irritable and quarrelsome | **FRACT**-ious → **FRACT**ure peace | The **fractious** child screamed and kicked when he didn't get his way. |
+| **dyspeptic** | dis-PEP-tik | Having indigestion or a consequent irritable depression | **DYS-PEP**-tic → **DYS** (bad) **PEP**si (stomach) | The **dyspeptic** old man complained about everything on the menu. |
+| **surly** | SUR-lee | Bad-tempered and unfriendly | **SUR**-ly → **SIR**-ly (acting like a mean lord) | The **surly** bus driver yelled at the passengers to move back. |
+| **truculent** | TRUCK-yoo-lent | Eager or quick to argue or fight; aggressively defiant | **TRUCK**-ulent → Like a **TRUCK** coming at you | The **truculent** teenager slammed the door in his mother's face. |
+| **pugnacious** | pug-NAY-shus | Eager or quick to argue, quarrel, or fight | **PUG**-nacious → Like a **PUG** dog / **PUG**ilist (boxer) | The **pugnacious** hockey player spent more time in the penalty box than on the ice. |
+| **antagonize** | an-TAG-uh-nize | Cause (someone) to become hostile | **ANTAGON**-ize → Create an **ANTAGON**ist | Don't **antagonize** the dog, or it might bite you. |
+| **inimical** | in-IM-ih-cal | Tending to obstruct or harm | **INIM**-ical → **ENEM**y-like | High inflation is **inimical** to economic growth. |
+| **livid** | LIV-id | Furiously angry | **LIVID** → **LIV**ing dead (pale with rage) | He was **livid** when he found out his car had been stolen. |
 
 ### Dishonesty & Deception
 
@@ -339,18 +339,18 @@ mindmap
         (_Fake, insincere, not genuine_)
 ```
 
-| Word             | Definition                                                                                              | Memory Hook                                          | Example Sentence                                                               |
-| ---------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------ |
-| **disingenuous** | Not candid or sincere, typically by pretending that one knows less about something than one really does | **DIS-IN-GENU**-ous → Not **GENU**ine                | It was **disingenuous** of him to claim he knew nothing about the scandal.     |
-| **mendacious**   | Not telling the truth; lying                                                                            | **MEND**-acious → Needs to **MEND** their lying ways | The politician's **mendacious** claims were quickly debunked by fact-checkers. |
-| **duplicity**    | Deceitfulness; double-dealing                                                                           | **DUPLIC**-ity → **DUPLIC**ate faces                 | The spy was a master of **duplicity**, working for both sides at once.         |
-| **prevaricate**  | Speak or act in an evasive way                                                                          | **PRE-VAR**-icate → **VAR**y the truth               | Stop **prevaricating** and give me a straight answer!                          |
-| **crafty**       | Clever at achieving one's aims by indirect or deceitful methods                                         | **CRAFT**-y → Good at **CRAFT**ing lies              | The **crafty** fox tricked the crow into dropping the cheese.                  |
-| **wily**         | Skilled at gaining an advantage, especially deceitfully                                                 | **WIL**-y → **WIL** E. Coyote                        | The **wily** veteran pitcher used a slow curveball to strike out the batter.   |
-| **guile**        | Sly or cunning intelligence                                                                             | **GUILE** → **GUY** who **LIE**s                     | She used her **guile** to trick the guard into letting her pass.               |
-| **affectation**  | Behavior, speech, or writing that is artificial and designed to impress                                 | **AFFECT**-ation → **AFFECT**ing a fake pose         | His British accent was just an **affectation**; he was actually from Ohio.     |
-| **mannered**     | (of behavior, speech, or writing) artificial, stilted, and over-elaborate                               | **MANNER**-ed → Too many **MANNER**s                 | His writing style is highly **mannered** and difficult to read.                |
-| **phony**        | Not genuine; fraudulent                                                                                 | **PHON**-y → **PHON**e scam                          | He gave a **phony** name to the police.                                        |
+| Word | Phonetics |Definition | Memory Hook | Example Sentence |
+| --- | --- | --- | --- | --- |
+| **disingenuous** | dis-in-JEN-yoo-us | Not candid or sincere, typically by pretending that one knows less about something than one really does | **DIS-IN-GENU**-ous → Not **GENU**ine | It was **disingenuous** of him to claim he knew nothing about the scandal. |
+| **mendacious** | men-DAY-shus | Not telling the truth; lying | **MEND**-acious → Needs to **MEND** their lying ways | The politician's **mendacious** claims were quickly debunked by fact-checkers. |
+| **duplicity** | doo-PLIS-it-ee | Deceitfulness; double-dealing | **DUPLIC**-ity → **DUPLIC**ate faces | The spy was a master of **duplicity**, working for both sides at once. |
+| **prevaricate** | pre-VAR-i-kate | Speak or act in an evasive way | **PRE-VAR**-icate → **VAR**y the truth | Stop **prevaricating** and give me a straight answer! |
+| **crafty** | KRAF-tee | Clever at achieving one's aims by indirect or deceitful methods | **CRAFT**-y → Good at **CRAFT**ing lies | The **crafty** fox tricked the crow into dropping the cheese. |
+| **wily** | WYE-lee | Skilled at gaining an advantage, especially deceitfully | **WIL**-y → **WIL** E. Coyote | The **wily** veteran pitcher used a slow curveball to strike out the batter. |
+| **guile** | GILE | Sly or cunning intelligence | **GUILE** → **GUY** who **LIE**s | She used her **guile** to trick the guard into letting her pass. |
+| **affectation** | af-ek-TAY-shun | Behavior, speech, or writing that is artificial and designed to impress | **AFFECT**-ation → **AFFECT**ing a fake pose | His British accent was just an **affectation**; he was actually from Ohio. |
+| **mannered** | MAN-erd | (of behavior, speech, or writing) artificial, stilted, and over-elaborate | **MANNER**-ed → Too many **MANNER**s | His writing style is highly **mannered** and difficult to read. |
+| **phony** | FO-nee | Not genuine; fraudulent | **PHON**-y → **PHON**e scam | He gave a **phony** name to the police. |
 
 ### Laziness & Apathy
 
