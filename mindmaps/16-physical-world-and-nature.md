@@ -1,12 +1,31 @@
 # 🌿 Physical World, Nature & Science
 
-## 🗺️ Main Mind Map
+## 🗺️ Main Mindmap
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((Physical World & Nature))
-    Body & Health
-      Sickness
+  root((<font color=white>**Physical World </br>& Nature**</font>))
+    {{_Body & Health_}}
+      (_Sickness_)
         **pathogenic**
         **pathological**
         **virulent**
@@ -14,83 +33,83 @@ mindmap
         **deleterious**
         **noisome**
         **fetid**
-      Health
+      (_Health_)
         **salubrious**
         **analgesia**
         **anodyne**
         **somatic**
         **aseptic**
-      Physical States
+      (_Physical States_)
         **emaciate**
         **desiccate**
         **wizened**
         **pallid**
         **incarnadine**
-    Nature & Land
-      Rural Life
+    {{_Nature & Land_}}
+      (_Rural Life_)
         **bucolic**
         **rustic**
         **idyllic**
         **pastoral**
         **fallow**
-      Plants & Growth
+      (_Plants & Growth_)
         **burgeon**
         **blight**
         **fecund**
         **verdant**
         **vernal**
         **gestation**
-      Terrain
+      (_Terrain_)
         **abyss**
         **declivity**
         **ford**
         **aerie**
         **terrestrial**
-    Physical Properties
-      Light & Appearance
+    {{_Physical Properties_}}
+      (_Light & Appearance_)
         **diaphanous**
         **luminous**
         **refulgent**
         **opaque**
         **lurid**
-      Sound
+      (_Sound_)
         **cacophony**
         **euphony**
         **stentorian**
         **din**
-      Texture & Material
+      (_Texture & Material_)
         **abrasive**
         **viscid**
         **malleable**
         **plastic**
         **lissome**
-    Scientific Concepts
-      Chemical Processes
+    {{_Scientific Concepts_}}
+      (_Chemical Processes_)
         **coagulate**
         **saturate**
         **reactant**
         **distill**
-      Physics
+      (_Physics_)
         **kinetic**
         **inert**
         **volatile**
         **implode**
-      Biology
+      (_Biology_)
         **symbiosis**
         **endemic**
         **molt**
         **vestige**
         **abscission**
-    Weather & Elements
-      Temperature
+    {{_Weather & Elements_}}
+      (_Temperature_)
         **glacial**
         **torrid**
         **temperate**
-      Water
+      (_Water_)
         **inundate**
         **maelstrom**
         **desiccate**
-      Forces
+      (_Forces_)
         **crescendo**
         **conflagration**
         **incendiary**
@@ -103,307 +122,424 @@ mindmap
 ### 🏥 Body & Health
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((Body & Health))
-    Sickness
+  root((<font color=white>**Body & Health**</font>))
+    {{_Sickness_}}
       **pathogenic**
-        Causing disease
+        (_Causing disease_)
       **pathological**
-        Relating to disease
+        (_Relating to disease_)
       **virulent**
-        Extremely infectious
+        (_Extremely infectious_)
       **pernicious**
-        Very harmful, deadly
+        (_Very harmful, deadly_)
       **deleterious**
-        Harmful, unhealthful
+        (_Harmful, unhealthful_)
       **noisome**
-        Offensive, disgusting
+        (_Offensive, disgusting_)
       **fetid**
-        Stinking
-    Health
+        (_Stinking_)
+    {{_Health_}}
       **salubrious**
-        Healthful
+        (_Healthful_)
       **analgesia**
-        Pain relief
+        (_Pain relief_)
       **anodyne**
-        Soothing, relieving pain
+        (_Soothing, relieving pain_)
       **somatic**
-        Of the body
+        (_Of the body_)
       **aseptic**
-        Free from germs
-    Physical States
+        (_Free from germs_)
+    {{_Physical States_}}
       **emaciate**
-        Make abnormally thin
+        (_Make abnormally thin_)
       **desiccate**
-        Thoroughly dried up
+        (_Thoroughly dried up_)
       **wizened**
-        Withered, shriveled
+        (_Withered, shriveled_)
       **pallid**
-        Abnormally pale
+        (_Abnormally pale_)
       **incarnadine**
-        Blood red
+        (_Blood red_)
 ```
+
+| Word             | Definition                                                                                                   | Memory Hook                                          | Example Sentence                                                     |
+| ---------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------------------------------- |
+| **pathogenic**   | Causing disease                                                                                              | **PATHO-GEN**-ic → **PATHO** (disease) **GEN**erator | Bacteria and viruses are **pathogenic** organisms.                   |
+| **pathological** | Involving, caused by, or of the nature of a physical or mental disease                                       | **PATHO-LOG**-ical → **PATHO** (disease) **LOG**ic   | He is a **pathological** liar.                                       |
+| **virulent**     | (of a disease or poison) extremely severe or harmful in its effects                                          | **VIRU**-lent → **VIRU**s                            | The **virulent** strain of the flu spread quickly.                   |
+| **pernicious**   | Having a harmful effect, especially in a gradual or subtle way                                               | **PER-NIC**-ious → **NEC**ro (death)                 | The **pernicious** influence of the drug destroyed his life.         |
+| **deleterious**  | Causing harm or damage                                                                                       | **DELETE**-rious → **DELETE**s health                | Smoking has a **deleterious** effect on your lungs.                  |
+| **noisome**      | Having an extremely offensive smell                                                                          | **NOIS**-ome → An**NOY**s nose                       | The **noisome** fumes from the factory made the residents sick.      |
+| **fetid**        | Smelling extremely unpleasant                                                                                | **FET**-id → **FEET**-id (smelly feet)               | The **fetid** odor of the swamp made us gag.                         |
+| **salubrious**   | Health-giving; healthy                                                                                       | **SALU**-brious → **SALU**te (health)                | The mountain air was **salubrious**.                                 |
+| **analgesia**    | The inability to feel pain                                                                                   | **AN-ALGES**-ia → **AN** (no) **ALGES** (pain)       | The doctor administered a drug to induce **analgesia**.              |
+| **anodyne**      | Not likely to provoke dissent or offense; inoffensive, often deliberately so; a painkilling drug or medicine | **AN-ODYNE** → **AN** (no) **DYNE** (pain)           | He gave an **anodyne** speech that avoided all controversial topics. |
+| **somatic**      | Relating to the body, especially as distinct from the mind                                                   | **SOMA**-tic → **SOMA** (body)                       | He suffered from **somatic** symptoms of stress.                     |
+| **aseptic**      | Free from contamination caused by harmful bacteria, viruses, or other microorganisms                         | **A-SEPT**-ic → **A** (no) **SEPT**ic (infection)    | The surgery was performed under **aseptic** conditions.              |
+| **emaciate**     | Abnormally thin or weak, especially because of illness or a lack of food                                     | **E-MACI**-ate → **MACI** (thin)                     | The rescued prisoners were **emaciated** and weak.                   |
+| **desiccate**    | Remove the moisture from (something), typically in order to preserve it                                      | **DES-ICCATE** → **DES**ert dry                      | The hot sun **desiccated** the soil.                                 |
+| **wizened**      | Shriveled or wrinkled with age                                                                               | **WIZEN**-ed → **WIZ**ard (old)                      | The **wizened** old woman told us stories of the past.               |
+| **pallid**       | (of a person's face) pale, typically because of poor health                                                  | **PALL**-id → **PALL**or (pale)                      | Her face was **pallid** and drawn from her illness.                  |
+| **incarnadine**  | A bright crimson or pinkish-red color                                                                        | **IN-CARNA**-dine → **IN** **CARN**e (flesh/meat)    | The sunset turned the sky **incarnadine**.                           |
 
 ### 🌳 Nature & Land
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((Nature & Land))
-    Rural Life
+  root((<font color=white>**Nature & Land**</font>))
+    {{_Rural Life_}}
       **bucolic**
-        Peaceful rural life
+        (_Peaceful rural life_)
       **rustic**
-        Country life
+        (_Country life_)
       **idyllic**
-        Positive, peaceful
+        (_Positive, peaceful_)
       **pastoral**
-        Rural, peaceful
+        (_Rural, peaceful_)
       **fallow**
-        Left unplanted
-    Plants & Growth
+        (_Left unplanted_)
+    {{_Plants & Growth_}}
       **burgeon**
-        Grow rapidly
+        (_Grow rapidly_)
       **blight**
-        Plant disease
+        (_Plant disease_)
       **fecund**
-        Fruitful, fertile
+        (_Fruitful, fertile_)
       **verdant**
-        Green with vegetation
+        (_Green with vegetation_)
       **vernal**
-        Relating to spring
+        (_Relating to spring_)
       **gestation**
-        Pregnancy
-    Terrain
+        (_Pregnancy_)
+    {{_Terrain_}}
       **abyss**
-        Deep vast cavity
+        (_Deep vast cavity_)
       **declivity**
-        Downward slope
+        (_Downward slope_)
       **ford**
-        Shallow river crossing
+        (_Shallow river crossing_)
       **aerie**
-        High dwelling
+        (_High dwelling_)
       **terrestrial**
-        Relating to Earth/land
+        (_Relating to Earth/land_)
 ```
+
+| Word            | Definition                                                                                                                                                 | Memory Hook                                        | Example Sentence                                                        |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------- |
+| **bucolic**     | Relating to the pleasant aspects of the countryside and country life                                                                                       | **BU-COLIC** → **BU**ll in a field (peaceful)      | The painting depicted a **bucolic** scene of sheep grazing in a meadow. |
+| **rustic**      | Relating to the countryside; rural                                                                                                                         | **RUST**-ic → **RUST**y old farm                   | They stayed in a **rustic** cabin in the woods.                         |
+| **idyllic**     | (especially of a time or place) like an idyll; extremely happy, peaceful, or picturesque                                                                   | **IDYLL**-ic → **IDLE** and perfect                | They spent an **idyllic** vacation in a cottage by the sea.             |
+| **pastoral**    | (especially of land or a farm) used for or related to the keeping or grazing of sheep or cattle                                                            | **PASTOR**-al → **PASTOR** (shepherd)              | The poem described a peaceful **pastoral** scene.                       |
+| **fallow**      | (of farmland) plowed and harrowed but left unsown for a period in order to restore its fertility as part of a crop rotation or to avoid surplus production | **FALL**-ow → **FALL** asleep (rest)               | The field lay **fallow** for a year.                                    |
+| **burgeon**     | Begin to grow or increase rapidly; flourish                                                                                                                | **BURG**-eon → **BURG**er (eating makes you grow)  | The city's population **burgeoned** during the industrial revolution.   |
+| **blight**      | A plant disease, especially one caused by fungi such as mildews, rusts, and smuts                                                                          | **B-LIGHT** → **B**ad **LIGHT** kills plants       | The potato **blight** caused a famine.                                  |
+| **fecund**      | Producing or capable of producing an abundance of offspring or new growth; fertile                                                                         | **FEC**-und → **FEC**es (fertilizer)               | The **fecund** soil produced a bumper crop.                             |
+| **verdant**     | (of countryside) green with grass or other rich vegetation                                                                                                 | **VERD**-ant → **VERD**e (green)                   | The **verdant** hills rolled into the distance.                         |
+| **vernal**      | Of, in, or appropriate to spring                                                                                                                           | **VERN**-al → **VERN**al equinox (spring)          | The **vernal** flowers bloomed early this year.                         |
+| **gestation**   | The process of carrying or being carried in the womb between conception and birth                                                                          | **GEST**-ation → **GUEST** inside                  | The **gestation** period of an elephant is about 22 months.             |
+| **abyss**       | A deep or seemingly bottomless chasm                                                                                                                       | **A-BYSS** → **A** **B**ig m**ISS** (fall forever) | He stared into the **abyss** of the canyon.                             |
+| **declivity**   | A downward slope                                                                                                                                           | **DE-CLIV**-ity → **DE**cline **CLIF**f            | The steep **declivity** made the hike dangerous.                        |
+| **ford**        | A shallow place in a river or stream allowing it to be walked or driven across                                                                             | **FORD** truck → Crosses river                     | We crossed the river at a shallow **ford**.                             |
+| **aerie**       | A large nest of a bird of prey, typically built high in a tree or on a cliff                                                                               | **AER**-ie → **AIR**-y home                        | The eagle's **aerie** was perched on a high ledge.                      |
+| **terrestrial** | Of, on, or relating to the earth                                                                                                                           | **TERR**-estrial → **TERR**a (earth)               | Humans are **terrestrial** animals.                                     |
 
 ### 💎 Physical Properties
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((Physical Properties))
-    Light & Appearance
+  root((<font color=white>**Physical Properties**</font>))
+    {{_Light & Appearance_}}
       **diaphanous**
-        Very sheer, translucent
+        (_Very sheer, translucent_)
       **luminous**
-        Shining, radiant
+        (_Shining, radiant_)
       **refulgent**
-        Shining, radiant
+        (_Shining, radiant_)
       **opaque**
-        Not translucent
+        (_Not translucent_)
       **lurid**
-        Gruesome, vivid
-    Sound
+        (_Gruesome, vivid_)
+    {{_Sound_}}
       **cacophony**
-        Harsh sounds
+        (_Harsh sounds_)
       **euphony**
-        Pleasing sound
+        (_Pleasing sound_)
       **stentorian**
-        Very loud
+        (_Very loud_)
       **din**
-        Loud noise
-    Texture & Material
+        (_Loud noise_)
+    {{_Texture & Material_}}
       **abrasive**
-        Rough, irritating
+        (_Rough, irritating_)
       **viscid**
-        Thick, sticky
+        (_Thick, sticky_)
       **malleable**
-        Able to be shaped
+        (_Able to be shaped_)
       **plastic**
-        Able to be shaped
+        (_Able to be shaped_)
       **lissome**
-        Flexible, supple
+        (_Flexible, supple_)
 ```
+
+| Word           | Definition                                                                                                                                             | Memory Hook                                                  | Example Sentence                                                        |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| **diaphanous** | (especially of fabric) light, delicate, and translucent                                                                                                | **DIA-PHAN**-ous → **DIA** (through) **PHAN** (show)         | She wore a **diaphanous** silk scarf.                                   |
+| **luminous**   | Full of or shedding light; bright or shining, especially in the dark                                                                                   | **LUMIN**-ous → **LUM**ens (light)                           | The **luminous** dial of the watch glowed in the dark.                  |
+| **refulgent**  | Shining brightly                                                                                                                                       | **RE-FULG**-ent → **FULL** of light                          | The **refulgent** sun rose over the mountains.                          |
+| **opaque**     | Not able to be seen through; not transparent                                                                                                           | **OPAQUE** → **O**h, **P**aint **A**ll **QUE**er (can't see) | The windows were **opaque** with dirt.                                  |
+| **lurid**      | Very vivid in color, especially so as to create an unpleasantly harsh or unnatural effect                                                              | **LUR**-id → **LUR**e (attract attention)                    | The tabloids were full of **lurid** details about the murder.           |
+| **cacophony**  | A harsh, discordant mixture of sounds                                                                                                                  | **CACO-PHONY** → **CACO** (bad) **PHONY** (sound)            | The **cacophony** of the city street was overwhelming.                  |
+| **euphony**    | The quality of being pleasing to the ear                                                                                                               | **EU-PHONY** → **EU** (good) **PHONY** (sound)               | The poet loved the **euphony** of the words.                            |
+| **stentorian** | (of a person's voice) loud and powerful                                                                                                                | **STENTOR**-ian → **STENTOR** (loud Greek herald)            | The sergeant shouted orders in a **stentorian** voice.                  |
+| **din**        | A loud, unpleasant, and prolonged noise                                                                                                                | **DIN**-ner noise                                            | The **din** of the construction work made it impossible to concentrate. |
+| **abrasive**   | (of a substance or material) capable of polishing or cleaning a hard surface by rubbing or grinding; showing little concern for the feelings of others | **ABRAS**-ive → **A** **BRAS**s brush (rough)                | His **abrasive** personality alienated his coworkers.                   |
+| **viscid**     | Having a glutinous or sticky consistency                                                                                                               | **VISC**-id → **VISC**ous                                    | The honey was thick and **viscid**.                                     |
+| **malleable**  | (of a metal or other material) able to be hammered or pressed permanently out of shape without breaking or cracking                                    | **MALLET**-able → Can hit with **MALLET**                    | Gold is a highly **malleable** metal.                                   |
+| **plastic**    | (of a substance or material) easily shaped or molded                                                                                                   | **PLAST**-ic → **PLAST**er (moldable)                        | Clay is a **plastic** material.                                         |
+| **lissome**    | (of a person or their body) thin, supple, and graceful                                                                                                 | **LITHE-SOME** → **LITHE** and **SOME**                      | The **lissome** dancer moved effortlessly across the stage.             |
 
 ### 🧪 Scientific Concepts
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((Scientific Concepts))
-    Chemical Processes
+  root((<font color=white>**Scientific Concepts**</font>))
+    {{_Chemical Processes_}}
       **coagulate**
-        Liquid to solid
+        (_Liquid to solid_)
       **saturate**
-        Soak thoroughly
+        (_Soak thoroughly_)
       **reactant**
-        Chemical substance
+        (_Chemical substance_)
       **distill**
-        Purify, extract
-    Physics
+        (_Purify, extract_)
+    {{_Physics_}}
       **kinetic**
-        Motion
+        (_Motion_)
       **inert**
-        Inactive
+        (_Inactive_)
       **volatile**
-        Explosive, varying
+        (_Explosive, varying_)
       **implode**
-        Burst inward
-    Biology
+        (_Burst inward_)
+    {{_Biology_}}
       **symbiosis**
-        Mutual relationship
+        (_Mutual relationship_)
       **endemic**
-        Native to place
+        (_Native to place_)
       **molt**
-        Shed skin/feathers
+        (_Shed skin/feathers_)
       **vestige**
-        Trace of past
+        (_Trace of past_)
       **abscission**
-        Cutting off
+        (_Cutting off_)
 ```
+
+| Word           | Definition                                                                                                           | Memory Hook                                         | Example Sentence                                                         |
+| -------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------ |
+| **coagulate**  | (of a fluid, especially blood) change to a solid or semi-solid state                                                 | **COAGUL**-ate → **CLOG**-ulate                     | The blood began to **coagulate** around the wound.                       |
+| **saturate**   | Cause (something) to become thoroughly soaked with liquid so that no more can be absorbed                            | **SAT**-urate → **SAT**isfied (full)                | The rain **saturated** the ground.                                       |
+| **reactant**   | A substance that takes part in and undergoes change during a reaction                                                | **REACT**-ant → **REACT**s                          | Oxygen is a key **reactant** in combustion.                              |
+| **distill**    | Purify (a liquid) by vaporizing it, then condensing it by cooling the vapor, and collecting the resulting liquid     | **DISTILL** → **STILL** water (pure)                | The report **distills** the main points of the conference.               |
+| **kinetic**    | Relating to or resulting from motion                                                                                 | **KINE**-tic → **KINE**ma (cinema/moving)           | **Kinetic** energy is the energy of motion.                              |
+| **inert**      | Lacking the ability or strength to move                                                                              | **IN-ERT** → **IN**-**ART** (no skill/move)         | The gas is chemically **inert** and rarely reacts with other substances. |
+| **volatile**   | (of a substance) easily evaporated at normal temperatures; liable to change rapidly and unpredictably                | **VOL**-atile → **VOL**cano                         | The chemical is highly **volatile** and must be handled with care.       |
+| **implode**    | Collapse or cause to collapse violently inwards                                                                      | **IM-PLODE** → **IM** (in) ex**PLODE**              | The building was demolished by **implosion**.                            |
+| **symbiosis**  | Interaction between two different organisms living in close physical association, typically to the advantage of both | **SYM-BIO**-sis → **SYM** (together) **BIO** (life) | The clownfish and the sea anemone live in **symbiosis**.                 |
+| **endemic**    | (of a disease or condition) regularly found among particular people or in a certain area                             | **EN-DEM**-ic → **IN** the **DEM**os (people)       | Malaria is **endemic** in some tropical regions.                         |
+| **molt**       | (of an animal) shed old feathers, hair, or skin, or an old shell, to make way for a new growth                       | **MOLT**-en → Melt away skin                        | The snake **molted** its skin.                                           |
+| **vestige**    | A trace of something that is disappearing or no longer exists                                                        | **VEST**-ige → **VEST** (clothing) left behind      | The appendix is a **vestige** of our evolutionary past.                  |
+| **abscission** | The natural detachment of parts of a plant, such as dead leaves and ripe fruit                                       | **AB-SCISS**-ion → **SCISS**ors cutting off         | The **abscission** of leaves occurs in autumn.                           |
 
 ### 🌪️ Weather & Elements
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((Weather & Elements))
-    Temperature
+  root((<font color=white>**Weather & Elements**</font>))
+    {{_Temperature_}}
       **glacial**
-        Cold, icy
+        (_Cold, icy_)
       **torrid**
-        Very hot
+        (_Very hot_)
       **temperate**
-        Moderate
-    Water
+        (_Moderate_)
+    {{_Water_}}
       **inundate**
-        Flood, overwhelm
+        (_Flood, overwhelm_)
       **maelstrom**
-        Violent whirlpool
+        (_Violent whirlpool_)
       **desiccate**
-        Dry up
-    Forces
+        (_Dry up_)
+    {{_Forces_}}
       **crescendo**
-        Increase in force
+        (_Increase in force_)
       **conflagration**
-        Large fire
+        (_Large fire_)
       **incendiary**
-        Setting on fire
+        (_Setting on fire_)
 ```
 
----
-
-## 📚 Vocabulary List
-
-| Word              | Definition                                                                                                                                                 | Memory Hook                                                  | Example Sentence                                                         |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| **abrasive**      | (of a substance or material) capable of polishing or cleaning a hard surface by rubbing or grinding; showing little concern for the feelings of others     | **ABRAS**-ive → **A** **BRAS**s brush (rough)                | His **abrasive** personality alienated his coworkers.                    |
-| **abscission**    | The natural detachment of parts of a plant, such as dead leaves and ripe fruit                                                                             | **AB-SCISS**-ion → **SCISS**ors cutting off                  | The **abscission** of leaves occurs in autumn.                           |
-| **abyss**         | A deep or seemingly bottomless chasm                                                                                                                       | **A-BYSS** → **A** **B**ig m**ISS** (fall forever)           | He stared into the **abyss** of the canyon.                              |
-| **aerie**         | A large nest of a bird of prey, typically built high in a tree or on a cliff                                                                               | **AER**-ie → **AIR**-y home                                  | The eagle's **aerie** was perched on a high ledge.                       |
-| **analgesia**     | The inability to feel pain                                                                                                                                 | **AN-ALGES**-ia → **AN** (no) **ALGES** (pain)               | The doctor administered a drug to induce **analgesia**.                  |
-| **anodyne**       | Not likely to provoke dissent or offense; inoffensive, often deliberately so; a painkilling drug or medicine                                               | **AN-ODYNE** → **AN** (no) **DYNE** (pain)                   | He gave an **anodyne** speech that avoided all controversial topics.     |
-| **aseptic**       | Free from contamination caused by harmful bacteria, viruses, or other microorganisms                                                                       | **A-SEPT**-ic → **A** (no) **SEPT**ic (infection)            | The surgery was performed under **aseptic** conditions.                  |
-| **blight**        | A plant disease, especially one caused by fungi such as mildews, rusts, and smuts                                                                          | **B-LIGHT** → **B**ad **LIGHT** kills plants                 | The potato **blight** caused a famine.                                   |
-| **bucolic**       | Relating to the pleasant aspects of the countryside and country life                                                                                       | **BU-COLIC** → **BU**ll in a field (peaceful)                | The painting depicted a **bucolic** scene of sheep grazing in a meadow.  |
-| **burgeon**       | Begin to grow or increase rapidly; flourish                                                                                                                | **BURG**-eon → **BURG**er (eating makes you grow)            | The city's population **burgeoned** during the industrial revolution.    |
-| **cacophony**     | A harsh, discordant mixture of sounds                                                                                                                      | **CACO-PHONY** → **CACO** (bad) **PHONY** (sound)            | The **cacophony** of the city street was overwhelming.                   |
-| **coagulate**     | (of a fluid, especially blood) change to a solid or semi-solid state                                                                                       | **COAGUL**-ate → **CLOG**-ulate                              | The blood began to **coagulate** around the wound.                       |
-| **conflagration** | An extensive fire that destroys a great deal of land or property                                                                                           | **CON-FLAG**-ration → **FLAG**s burning                      | The **conflagration** destroyed the entire forest.                       |
-| **crescendo**     | A gradual increase in loudness in a piece of music                                                                                                         | **CRESC**-endo → **CRE**ate **SC**ene (louder)               | The music reached a deafening **crescendo**.                             |
-| **declivity**     | A downward slope                                                                                                                                           | **DE-CLIV**-ity → **DE**cline **CLIF**f                      | The steep **declivity** made the hike dangerous.                         |
-| **deleterious**   | Causing harm or damage                                                                                                                                     | **DELETE**-rious → **DELETE**s health                        | Smoking has a **deleterious** effect on your lungs.                      |
-| **desiccate**     | Remove the moisture from (something), typically in order to preserve it                                                                                    | **DES-ICCATE** → **DES**ert dry                              | The hot sun **desiccated** the soil.                                     |
-| **diaphanous**    | (especially of fabric) light, delicate, and translucent                                                                                                    | **DIA-PHAN**-ous → **DIA** (through) **PHAN** (show)         | She wore a **diaphanous** silk scarf.                                    |
-| **din**           | A loud, unpleasant, and prolonged noise                                                                                                                    | **DIN**-ner noise                                            | The **din** of the construction work made it impossible to concentrate.  |
-| **distill**       | Purify (a liquid) by vaporizing it, then condensing it by cooling the vapor, and collecting the resulting liquid                                           | **DISTILL** → **STILL** water (pure)                         | The report **distills** the main points of the conference.               |
-| **emaciate**      | Abnormally thin or weak, especially because of illness or a lack of food                                                                                   | **E-MACI**-ate → **MACI** (thin)                             | The rescued prisoners were **emaciated** and weak.                       |
-| **endemic**       | (of a disease or condition) regularly found among particular people or in a certain area                                                                   | **EN-DEM**-ic → **IN** the **DEM**os (people)                | Malaria is **endemic** in some tropical regions.                         |
-| **euphony**       | The quality of being pleasing to the ear                                                                                                                   | **EU-PHONY** → **EU** (good) **PHONY** (sound)               | The poet loved the **euphony** of the words.                             |
-| **fallow**        | (of farmland) plowed and harrowed but left unsown for a period in order to restore its fertility as part of a crop rotation or to avoid surplus production | **FALL**-ow → **FALL** asleep (rest)                         | The field lay **fallow** for a year.                                     |
-| **fecund**        | Producing or capable of producing an abundance of offspring or new growth; fertile                                                                         | **FEC**-und → **FEC**es (fertilizer)                         | The **fecund** soil produced a bumper crop.                              |
-| **fetid**         | Smelling extremely unpleasant                                                                                                                              | **FET**-id → **FEET**-id (smelly feet)                       | The **fetid** odor of the swamp made us gag.                             |
-| **ford**          | A shallow place in a river or stream allowing it to be walked or driven across                                                                             | **FORD** truck → Crosses river                               | We crossed the river at a shallow **ford**.                              |
-| **gestation**     | The process of carrying or being carried in the womb between conception and birth                                                                          | **GEST**-ation → **GUEST** inside                            | The **gestation** period of an elephant is about 22 months.              |
-| **glacial**       | Extremely cold (like a glacier)                                                                                                                            | **GLACIER**-al                                               | She gave him a **glacial** stare.                                        |
-| **idyllic**       | (especially of a time or place) like an idyll; extremely happy, peaceful, or picturesque                                                                   | **IDYLL**-ic → **IDLE** and perfect                          | They spent an **idyllic** vacation in a cottage by the sea.              |
-| **implode**       | Collapse or cause to collapse violently inwards                                                                                                            | **IM-PLODE** → **IM** (in) ex**PLODE**                       | The building was demolished by **implosion**.                            |
-| **incarnadine**   | A bright crimson or pinkish-red color                                                                                                                      | **IN-CARNA**-dine → **IN** **CARN**e (flesh/meat)            | The sunset turned the sky **incarnadine**.                               |
-| **incendiary**    | (of a device or attack) designed to cause fires                                                                                                            | **IN-CEND**-iary → **CAND**le (fire)                         | The rebels used **incendiary** devices to burn down the building.        |
-| **inert**         | Lacking the ability or strength to move                                                                                                                    | **IN-ERT** → **IN**-**ART** (no skill/move)                  | The gas is chemically **inert** and rarely reacts with other substances. |
-| **inundate**      | Overwhelm (someone) with things or people to be dealt with                                                                                                 | **IN-UND**-ate → **UND**er waves                             | We were **inundated** with complaints after the broadcast.               |
-| **kinetic**       | Relating to or resulting from motion                                                                                                                       | **KINE**-tic → **KINE**ma (cinema/moving)                    | **Kinetic** energy is the energy of motion.                              |
-| **lissome**       | (of a person or their body) thin, supple, and graceful                                                                                                     | **LITHE-SOME** → **LITHE** and **SOME**                      | The **lissome** dancer moved effortlessly across the stage.              |
-| **luminous**      | Full of or shedding light; bright or shining, especially in the dark                                                                                       | **LUMIN**-ous → **LUM**ens (light)                           | The **luminous** dial of the watch glowed in the dark.                   |
-| **lurid**         | Very vivid in color, especially so as to create an unpleasantly harsh or unnatural effect                                                                  | **LUR**-id → **LUR**e (attract attention)                    | The tabloids were full of **lurid** details about the murder.            |
-| **maelstrom**     | A powerful whirlpool in the sea or a river                                                                                                                 | **MAEL-STROM** → **STORM**y whirlpool                        | The boat was caught in a **maelstrom**.                                  |
-| **malleable**     | (of a metal or other material) able to be hammered or pressed permanently out of shape without breaking or cracking                                        | **MALLET**-able → Can hit with **MALLET**                    | Gold is a highly **malleable** metal.                                    |
-| **molt**          | (of an animal) shed old feathers, hair, or skin, or an old shell, to make way for a new growth                                                             | **MOLT**-en → Melt away skin                                 | The snake **molted** its skin.                                           |
-| **noisome**       | Having an extremely offensive smell                                                                                                                        | **NOIS**-ome → An**NOY**s nose                               | The **noisome** fumes from the factory made the residents sick.          |
-| **opaque**        | Not able to be seen through; not transparent                                                                                                               | **OPAQUE** → **O**h, **P**aint **A**ll **QUE**er (can't see) | The windows were **opaque** with dirt.                                   |
-| **pallid**        | (of a person's face) pale, typically because of poor health                                                                                                | **PALL**-id → **PALL**or (pale)                              | Her face was **pallid** and drawn from her illness.                      |
-| **pastoral**      | (especially of land or a farm) used for or related to the keeping or grazing of sheep or cattle                                                            | **PASTOR**-al → **PASTOR** (shepherd)                        | The poem described a peaceful **pastoral** scene.                        |
-| **pathogenic**    | Causing disease                                                                                                                                            | **PATHO-GEN**-ic → **PATHO** (disease) **GEN**erator         | Bacteria and viruses are **pathogenic** organisms.                       |
-| **pathological**  | Involving, caused by, or of the nature of a physical or mental disease                                                                                     | **PATHO-LOG**-ical → **PATHO** (disease) **LOG**ic           | He is a **pathological** liar.                                           |
-| **pernicious**    | Having a harmful effect, especially in a gradual or subtle way                                                                                             | **PER-NIC**-ious → **NEC**ro (death)                         | The **pernicious** influence of the drug destroyed his life.             |
-| **plastic**       | (of a substance or material) easily shaped or molded                                                                                                       | **PLAST**-ic → **PLAST**er (moldable)                        | Clay is a **plastic** material.                                          |
-| **reactant**      | A substance that takes part in and undergoes change during a reaction                                                                                      | **REACT**-ant → **REACT**s                                   | Oxygen is a key **reactant** in combustion.                              |
-| **refulgent**     | Shining brightly                                                                                                                                           | **RE-FULG**-ent → **FULL** of light                          | The **refulgent** sun rose over the mountains.                           |
-| **rustic**        | Relating to the countryside; rural                                                                                                                         | **RUST**-ic → **RUST**y old farm                             | They stayed in a **rustic** cabin in the woods.                          |
-| **salubrious**    | Health-giving; healthy                                                                                                                                     | **SALU**-brious → **SALU**te (health)                        | The mountain air was **salubrious**.                                     |
-| **saturate**      | Cause (something) to become thoroughly soaked with liquid so that no more can be absorbed                                                                  | **SAT**-urate → **SAT**isfied (full)                         | The rain **saturated** the ground.                                       |
-| **somatic**       | Relating to the body, especially as distinct from the mind                                                                                                 | **SOMA**-tic → **SOMA** (body)                               | He suffered from **somatic** symptoms of stress.                         |
-| **stentorian**    | (of a person's voice) loud and powerful                                                                                                                    | **STENTOR**-ian → **STENTOR** (loud Greek herald)            | The sergeant shouted orders in a **stentorian** voice.                   |
-| **symbiosis**     | Interaction between two different organisms living in close physical association, typically to the advantage of both                                       | **SYM-BIO**-sis → **SYM** (together) **BIO** (life)          | The clownfish and the sea anemone live in **symbiosis**.                 |
-| **temperate**     | Relating to or denoting a region or climate characterized by mild temperatures                                                                             | **TEMPER**-ate → **TEMPER**ed (moderate)                     | The island has a **temperate** climate.                                  |
-| **terrestrial**   | Of, on, or relating to the earth                                                                                                                           | **TERR**-estrial → **TERR**a (earth)                         | Humans are **terrestrial** animals.                                      |
-| **torrid**        | Very hot and dry                                                                                                                                           | **TORR**-id → **TORR**id zone (equator)                      | The **torrid** heat of the desert was unbearable.                        |
-| **verdant**       | (of countryside) green with grass or other rich vegetation                                                                                                 | **VERD**-ant → **VERD**e (green)                             | The **verdant** hills rolled into the distance.                          |
-| **vernal**        | Of, in, or appropriate to spring                                                                                                                           | **VERN**-al → **VERN**al equinox (spring)                    | The **vernal** flowers bloomed early this year.                          |
-| **vestige**       | A trace of something that is disappearing or no longer exists                                                                                              | **VEST**-ige → **VEST** (clothing) left behind               | The appendix is a **vestige** of our evolutionary past.                  |
-| **virulent**      | (of a disease or poison) extremely severe or harmful in its effects                                                                                        | **VIRU**-lent → **VIRU**s                                    | The **virulent** strain of the flu spread quickly.                       |
-| **viscid**        | Having a glutinous or sticky consistency                                                                                                                   | **VISC**-id → **VISC**ous                                    | The honey was thick and **viscid**.                                      |
-| **volatile**      | (of a substance) easily evaporated at normal temperatures; liable to change rapidly and unpredictably                                                      | **VOL**-atile → **VOL**cano                                  | The chemical is highly **volatile** and must be handled with care.       |
-| **wizened**       | Shriveled or wrinkled with age                                                                                                                             | **WIZEN**-ed → **WIZ**ard (old)                              | The **wizened** old woman told us stories of the past.                   |
+| Word              | Definition                                                                     | Memory Hook                                    | Example Sentence                                                  |
+| ----------------- | ------------------------------------------------------------------------------ | ---------------------------------------------- | ----------------------------------------------------------------- |
+| **glacial**       | Extremely cold (like a glacier)                                                | **GLACIER**-al                                 | She gave him a **glacial** stare.                                 |
+| **torrid**        | Very hot and dry                                                               | **TORR**-id → **TORR**id zone (equator)        | The **torrid** heat of the desert was unbearable.                 |
+| **temperate**     | Relating to or denoting a region or climate characterized by mild temperatures | **TEMPER**-ate → **TEMPER**ed (moderate)       | The island has a **temperate** climate.                           |
+| **inundate**      | Overwhelm (someone) with things or people to be dealt with                     | **IN-UND**-ate → **UND**er waves               | We were **inundated** with complaints after the broadcast.        |
+| **maelstrom**     | A powerful whirlpool in the sea or a river                                     | **MAEL-STROM** → **STORM**y whirlpool          | The boat was caught in a **maelstrom**.                           |
+| **desiccate**     | Remove the moisture from (something), typically in order to preserve it        | **DES-ICCATE** → **DES**ert dry                | The hot sun **desiccated** the soil.                              |
+| **crescendo**     | A gradual increase in loudness in a piece of music                             | **CRESC**-endo → **CRE**ate **SC**ene (louder) | The music reached a deafening **crescendo**.                      |
+| **conflagration** | An extensive fire that destroys a great deal of land or property               | **CON-FLAG**-ration → **FLAG**s burning        | The **conflagration** destroyed the entire forest.                |
+| **incendiary**    | (of a device or attack) designed to cause fires                                | **IN-CEND**-iary → **CAND**le (fire)           | The rebels used **incendiary** devices to burn down the building. |
 
 ---
 
 ## 🌱 Etymology & Roots
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((Roots))
-    **path**
-    (disease/feeling)
-      pathogenic
-        (disease causing)
-      apathy
-        (no feeling)
-    **bio**
-    (life)
-      symbiosis
-        (life together)
-      biology
-        (study of life)
-    **terr**
-    (earth)
-      terrestrial
-        (of earth)
-      inter
-        (put in earth)
-    **luc/lum**
-    (light)
-      luminous
-        (full of light)
-      lucid
-        (clear)
-    **phon**
-    (sound)
-      cacophony
-        (bad sound)
-      symphony
-        (sound together)
-    **therm**
-    (heat)
-      thermal
-        (heat related)
-      hypothermia
-        (low heat)
+  root((<font color=white>**Roots**</font>))
+    )**path**</br>_disease/feeling_(
+      **pathogenic**
+        (_disease causing_)
+      **apathy**
+        (_no feeling_)
+    )**bio**</br>_life_(
+      **symbiosis**
+        (_life together_)
+      **biology**
+        (_study of life_)
+    )**terr**</br>_earth_(
+      **terrestrial**
+        (_of earth_)
+      **inter**
+        (_put in earth_)
+    )**luc/lum**</br>_light_(
+      **luminous**
+        (_full of light_)
+      **lucid**
+        (_clear_)
+    )**phon**</br>_sound_(
+      **cacophony**
+        (_bad sound_)
+      **symphony**
+        (_sound together_)
+    )**therm**</br>_heat_(
+      **thermal**
+        (_heat related_)
+      **hypothermia**
+        (_low heat_)
 ```

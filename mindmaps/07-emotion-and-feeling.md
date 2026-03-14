@@ -1,85 +1,104 @@
 # 💭 Emotion, Feeling & Temperament
 
-## 🗺️ Main Mind Map
+## Main Mindmap
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((Emotion & Feeling))
-    Joy & Happiness
-      Delight
+  root((<font color=white>**Emotion & </br>Feeling**</font>))
+    {{_Joy & Happiness_}}
+      (_Delight_)
         **elated**
         **blithe**
         **ebullient**
         **mirth**
         **gambol**
         **sportive**
-      Optimism
+      (_Optimism_)
         **sanguine**
         **halcyon**
         **idyllic**
-    Sadness & Grief
-      Mourning
+    {{_Sadness & Grief_}}
+      (_Mourning_)
         **elegy**
         **dirge**
         **lament**
         **lachrymose**
         **knell**
-      Gloom
+      (_Gloom_)
         **morose**
         **lugubrious**
         **wan**
         **pallid**
         **maudlin**
-    Fear & Anxiety
-      Fearful
+    {{_Fear & Anxiety_}}
+      (_Fearful_)
         **daunt**
         **timorous**
         **trepidation**
         **disquieting**
-      Cautious
+      (_Cautious_)
         **wary**
         **leery**
         **circumspect**
-    Anger & Hostility
-      Fury
+    {{_Anger & Hostility_}}
+      (_Fury_)
         **livid**
         **overwrought**
         **hotly**
-      Resentment
+      (_Resentment_)
         **umbrage**
         **nettle**
         **vex**
         **grating**
-    Calm & Composure
-      Peaceful
+    {{_Calm & Composure_}}
+      (_Peaceful_)
         **placid**
         **serene**
         **seraphic**
         **lull**
         **repose**
-      Composed
+      (_Composed_)
         **equanimity**
         **impassive**
         **dispassionate**
         **stoic**
-      Indifferent
+      (_Indifferent_)
         **nonchalant**
         **detached**
         **insensible**
-    Remorse & Regret
-      Penitent
+    {{_Remorse & Regret_}}
+      (_Penitent_)
         **contrite**
         **penitent**
         **rue**
-      Compassionate
+      (_Compassionate_)
         **solicitous**
         **console**
-    Emotional Extremes
-      Passionate
+    {{_Emotional Extremes_}}
+      (_Passionate_)
         **ardent**
         **fervid**
         **torrid**
-      Excessive
+      (_Excessive_)
         **cloying**
         **overwrought**
         **maudlin**
@@ -87,286 +106,448 @@ mindmap
 
 ---
 
-## 🔍 Detailed Focus
+## Detailed Focus
 
-### 😄 Joy & Happiness
+### Joy & Happiness
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((Joy & Happiness))
-    Delight
+  root((<font color=white>**Joy & Happiness**</font>))
+    {{_Delight_}}
       **elated**
-        Very happy, in high spirits
+        (_Very happy, in high spirits_)
       **blithe**
-        Joyous, merry, carefree
+        (_Joyous, merry, carefree_)
       **ebullient**
-        Very enthusiastic, lively
+        (_Very enthusiastic, lively_)
       **mirth**
-        Jollity, merriment
+        (_Jollity, merriment_)
       **gambol**
-        Frolic, skip playfully
+        (_Frolic, skip playfully_)
       **sportive**
-        Playful, merry
-    Optimism
+        (_Playful, merry_)
+    {{_Optimism_}}
       **sanguine**
-        Cheerfully optimistic
+        (_Cheerfully optimistic_)
       **halcyon**
-        Calm, peaceful, prosperous
+        (_Calm, peaceful, prosperous_)
       **idyllic**
-        Positive, peaceful, natural
+        (_Positive, peaceful, natural_)
 ```
 
-### 😢 Sadness & Grief
+| Word          | Definition                                                                               | Memory Hook                                                     | Example Sentence                                                                    |
+| ------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **elated**    | Ecstatically happy                                                                       | **ELEVAT**-ed → Lifted up in spirit                             | She was **elated** when she found out she had been accepted into her dream college. |
+| **blithe**    | Showing a casual and cheerful indifference considered to be callous or improper; happy   | **BLITHE** spirit → Light and happy                             | She showed a **blithe** disregard for the rules.                                    |
+| **ebullient** | Cheerful and full of energy                                                              | **E-BULL**-ient → Like a **BULL** bubbling with energy          | Her **ebullient** personality made her the life of the party.                       |
+| **mirth**     | Amusement, especially as expressed in laughter                                           | **MIRTH** → **M**erriment and b**IRTH**day fun                  | The room was filled with **mirth** and laughter.                                    |
+| **gambol**    | Run or jump about playfully                                                              | **GAMB**-ol → **GAMB**le (play) / **GAME**-ball                 | The lambs **gamboled** in the meadow.                                               |
+| **sportive**  | Playful; lighthearted                                                                    | **SPORT**-ive → Like a **SPORT**                                | The **sportive** puppy chased its tail.                                             |
+| **sanguine**  | Optimistic or positive, especially in an apparently bad or difficult situation           | **SANGUIN** (blood) → Red-cheeked (healthy/happy)               | He remained **sanguine** about the company's future despite the recent losses.      |
+| **halcyon**   | Denoting a period of time in the past that was idyllically happy and peaceful            | **HALCYON** → **HAL**l of **CYON** (mythical bird calming seas) | She recalled the **halcyon** days of her youth.                                     |
+| **idyllic**   | (especially of a time or place) like an idyll; extremely happy, peaceful, or picturesque | **IDYLL**-ic → **IDLE** and perfect                             | They spent an **idyllic** vacation in a cottage by the sea.                         |
+
+### Sadness & Grief
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((Sadness & Grief))
-    Mourning
+  root((<font color=white>**Sadness & Grief**</font>))
+    {{_Mourning_}}
       **elegy**
-        Song/poem of sorrow for dead
+        (_Song/poem of sorrow for dead_)
       **dirge**
-        Funeral or mourning song
+        (_Funeral or mourning song_)
       **lament**
-        Mourn, express grief
+        (_Mourn, express grief_)
       **lachrymose**
-        Tearful, mournful
+        (_Tearful, mournful_)
       **knell**
-        Sound of a funeral bell
-    Gloom
+        (_Sound of a funeral bell_)
+    {{_Gloom_}}
       **morose**
-        Gloomy, sullen
+        (_Gloomy, sullen_)
       **lugubrious**
-        Mournful, gloomy
+        (_Mournful, gloomy_)
       **wan**
-        Unnaturally pale, weak
+        (_Unnaturally pale, weak_)
       **pallid**
-        Abnormally pale
+        (_Abnormally pale_)
       **maudlin**
-        Excessively sentimental
+        (_Excessively sentimental_)
 ```
 
-### 😨 Fear & Anxiety
+| Word           | Definition                                                                                       | Memory Hook                                    | Example Sentence                                                                      |
+| -------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **elegy**      | A poem of serious reflection, typically a lament for the dead                                    | **E-LEG**-y → **LEG**acy poem                  | He wrote a moving **elegy** for his fallen comrades.                                  |
+| **dirge**      | A lament for the dead, especially one forming part of a funeral rite                             | **DIRGE** → **DIR**t grave song                | The slow, mournful **dirge** played as the coffin was lowered.                        |
+| **lament**     | A passionate expression of grief or sorrow                                                       | **LAMENT** → **LAM**b la**MENT**ing            | The nation **lamented** the death of its leader.                                      |
+| **lachrymose** | Tearful or given to weeping                                                                      | **LACHRY**-mose → **LACHRY**mal glands (tears) | The **lachrymose** movie left the entire audience in tears.                           |
+| **knell**      | The sound of a bell, especially when rung solemnly for a death or funeral                        | **KNELL** → **K**ill be**LL**                  | The closing of the factory sounded the death **knell** for the town.                  |
+| **morose**     | Sullen and ill-tempered                                                                          | **MOR**-ose → **MOR**bid/no **ROS**es          | He became **morose** and withdrawn after losing his job.                              |
+| **lugubrious** | Looking or sounding sad and dismal                                                               | **LUG**-ubrious → **LUG**ging grief around     | The **lugubrious** music set a somber tone for the funeral.                           |
+| **wan**        | (of a person's complexion or appearance) pale and giving the impression of illness or exhaustion | **WAN** → **WAN**ing moon (pale)               | She gave a **wan** smile as she lay in the hospital bed.                              |
+| **pallid**     | (of a person's face) pale, typically because of poor health                                      | **PALL**-id → **PALL**or (pale)                | Her face was **pallid** and drawn from her illness.                                   |
+| **maudlin**    | Self-pityingly or tearfully sentimental, often through drunkenness                               | **MAUD**-lin → Mary **MAGD**alene weeping      | After a few drinks, he became **maudlin** and started crying about his ex-girlfriend. |
+
+### Fear & Anxiety
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((Fear & Anxiety))
-    Fearful
+  root((<font color=white>**Fear & Anxiety**</font>))
+    {{_Fearful_}}
       **daunt**
-        Discourage, dishearten
+        (_Discourage, dishearten_)
       **timorous**
-        Fearful, timid
+        (_Fearful, timid_)
       **trepidation**
-        Fear, agitation
+        (_Fear, agitation_)
       **disquieting**
-        Disturbing, causing anxiety
-    Cautious
+        (_Disturbing, causing anxiety_)
+    {{_Cautious_}}
       **wary**
-        Watchful, on guard
+        (_Watchful, on guard_)
       **leery**
-        Suspicious or wary
+        (_Suspicious or wary_)
       **circumspect**
-        Cautious, prudent
+        (_Cautious, prudent_)
 ```
 
-### 😡 Anger & Hostility
+| Word            | Definition                                                           | Memory Hook                                             | Example Sentence                                                    |
+| --------------- | -------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------- |
+| **daunt**       | Make (someone) feel intimidated or apprehensive                      | **DAUNT** → **DON'T** do it (scared)                    | The steep mountain did not **daunt** the experienced climbers.      |
+| **timorous**    | Showing or suffering from nervousness, fear, or a lack of confidence | **TIM**-orous → **TIM**id                               | The **timorous** mouse scurried across the floor.                   |
+| **trepidation** | A feeling of fear or agitation about something that may happen       | **TREPID**-ation → **TRAP**ped feeling                  | She opened the letter with **trepidation**.                         |
+| **disquieting** | Inducing feelings of anxiety or worry                                | **DIS-QUIET**-ing → Not **QUIET** (peaceful)            | There was a **disquieting** silence in the room.                    |
+| **wary**        | Feeling or showing caution about possible dangers or problems        | **WAR**-y → In a **WAR** zone (careful)                 | Be **wary** of strangers offering free candy.                       |
+| **leery**       | Cautious or wary due to realistic suspicions                         | **LEER**-y → **LEER**ing suspiciously                   | I was **leery** of the deal because it sounded too good to be true. |
+| **circumspect** | Wary and unwilling to take risks                                     | **CIRCUM-SPECT** → **SPECT** (look) **CIRCUM** (around) | The politician was **circumspect** in his answers to the press.     |
+
+### Anger & Hostility
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((Anger & Hostility))
-    Fury
+  root((<font color=white>**Anger & Hostility**</font>))
+    {{_Fury_}}
       **livid**
-        Furiously angry
+        (_Furiously angry_)
       **overwrought**
-        Overly nervous, agitated
+        (_Overly nervous, agitated_)
       **hotly**
-        In an intense, fiery way
-    Resentment
+        (_In an intense, fiery way_)
+    {{_Resentment_}}
       **umbrage**
-        Offense or annoyance
+        (_Offense or annoyance_)
       **nettle**
-        Irritate, sting
+        (_Irritate, sting_)
       **vex**
-        Annoy, bother, puzzle
+        (_Annoy, bother, puzzle_)
       **grating**
-        Irritating, harsh
+        (_Irritating, harsh_)
 ```
 
-### 🧘 Calm & Composure
+| Word            | Definition                                                                           | Memory Hook                                           | Example Sentence                                            |
+| --------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------------- |
+| **livid**       | Furiously angry                                                                      | **LIVID** → **LIV**ing dead (pale with rage)          | He was **livid** when he found out his car had been stolen. |
+| **overwrought** | In a state of nervous excitement or anxiety                                          | **OVER-WROUGHT** → **OVER**-worked/twisted            | The **overwrought** mother couldn't stop crying.            |
+| **hotly**       | In an intense, fiery, or heated way                                                  | **HOT**-ly → With heat                                | The issue was **hotly** debated in parliament.              |
+| **umbrage**     | Offense or annoyance                                                                 | **UMBR**-age → **UMBR**ella (shade/shadow of offense) | He took **umbrage** at her remarks about his weight.        |
+| **nettle**      | Irritate or annoy (someone)                                                          | **NETTLE** → Stinging plant                           | She was **nettled** by his constant criticism.              |
+| **vex**         | Make (someone) feel annoyed, frustrated, or worried, especially with trivial matters | **VEX** → **HEX** (curse/annoy)                       | The math problem **vexed** the students for hours.          |
+| **grating**     | Sounding harsh and unpleasant; irritating                                            | **GRAT**-ing → Like a cheese **GRAT**er on nerves     | His **grating** voice annoyed everyone in the office.       |
+
+### Calm & Composure
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((Calm & Composure))
-    Peaceful
+  root((<font color=white>**Calm & Composure**</font>))
+    {{_Peaceful_}}
       **placid**
-        Peaceful, calm
+        (_Peaceful, calm_)
       **serene**
-        Calm, peaceful
+        (_Calm, peaceful_)
       **seraphic**
-        Like an angel, serene
+        (_Like an angel, serene_)
       **lull**
-        Soothe, calm period
+        (_Soothe, calm period_)
       **repose**
-        Resting, peacefulness
-    Composed
+        (_Resting, peacefulness_)
+    {{_Composed_}}
       **equanimity**
-        Composure under stress
+        (_Composure under stress_)
       **impassive**
-        Not showing emotion
+        (_Not showing emotion_)
       **dispassionate**
-        Unbiased, calm
+        (_Unbiased, calm_)
       **stoic**
-        Indifferent to pleasure/pain
-    Indifferent
+        (_Indifferent to pleasure/pain_)
+    {{_Indifferent_}}
       **nonchalant**
-        Coolly unconcerned
+        (_Coolly unconcerned_)
       **detached**
-        Impartial, distant
+        (_Impartial, distant_)
       **insensible**
-        Incapable of feeling
+        (_Incapable of feeling_)
 ```
 
-### 🙏 Remorse & Regret
+| Word              | Definition                                                                                                              | Memory Hook                                         | Example Sentence                                                    |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------- |
+| **placid**        | (of a person or animal) not easily upset or excited; calm                                                               | **PLAC**-id → **PLAC**ate (make calm)               | The **placid** lake reflected the mountains like a mirror.          |
+| **serene**        | Calm, peaceful, and untroubled; tranquil                                                                                | **SERENE** → **SIREN** (singing calmly)             | The **serene** landscape painted a picture of perfect peace.        |
+| **seraphic**      | Characteristic of or resembling a seraph or seraphim; angelic                                                           | **SERAPH**-ic → **SERAPH**im (angel)                | The baby had a **seraphic** smile while sleeping.                   |
+| **lull**          | Calm or send to sleep, typically with soothing sounds or movements                                                      | **LULL**-aby                                        | The rhythmic sound of the waves **lulled** him to sleep.            |
+| **repose**        | A state of rest, sleep, or tranquility                                                                                  | **RE-POSE** → **RE**sting **POS**ition              | The statue captured the figure in a state of **repose**.            |
+| **equanimity**    | Mental calmness, composure, and evenness of temper, especially in a difficult situation                                 | **EQUA-NIM**-ity → **EQUA**l (balanced) **MIND**    | He accepted the bad news with **equanimity**.                       |
+| **impassive**     | Not feeling or showing emotion                                                                                          | **IM-PASS**-ive → **PASS**ive face                  | He remained **impassive** as the verdict was read.                  |
+| **dispassionate** | Not influenced by strong emotion, and so able to be rational and impartial                                              | **DIS-PASSION**-ate → No **PASSION** (bias)         | A judge must be **dispassionate** when hearing a case.              |
+| **stoic**         | A person who can endure pain or hardship without showing their feelings or complaining                                  | **STOIC** → **STO**ne-like                          | He remained **stoic** throughout the funeral service.               |
+| **nonchalant**    | (of a person or manner) feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm | **NON-CHAL**-ant → **NON**-**CAL**orie (light/easy) | He was surprisingly **nonchalant** about winning the lottery.       |
+| **detached**      | Separate or disconnected; aloof and objective                                                                           | **DE-TACH**-ed → Not **ATTACH**ed                   | He tried to remain **detached** and professional during the crisis. |
+| **insensible**    | Without one's mental faculties, typically a result of violence or intoxication; unaware of                              | **IN-SENS**-ible → No **SENS**e/feeling             | He was **insensible** to the pain after the shock.                  |
+
+### Remorse & Regret
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((Remorse & Regret))
-    Penitent
+  root((<font color=white>**Remorse & Regret**</font>))
+    {{_Penitent_}}
       **contrite**
-        Remorseful, sorry
+        (_Remorseful, sorry_)
       **penitent**
-        Regretful for sins
+        (_Regretful for sins_)
       **rue**
-        Regret, remorse
-    Compassionate
+        (_Regret, remorse_)
+    {{_Compassionate_}}
       **solicitous**
-        Concerned, expressing care
+        (_Concerned, expressing care_)
       **console**
-        Lessen suffering
+        (_Lessen suffering_)
 ```
 
-### 🔥 Emotional Extremes
+| Word           | Definition                                                            | Memory Hook                                           | Example Sentence                                               |
+| -------------- | --------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------- |
+| **contrite**   | Feeling or expressing remorse or penitence; affected by guilt         | **CON-TRITE** → **TRITE** (worn out) with guilt       | He was **contrite** after breaking his mother's favorite vase. |
+| **penitent**   | Feeling or showing sorrow and regret for having done wrong; repentant | **PENIT**-ent → **PENIT**entiary (prison for sinners) | The **penitent** thief returned the stolen money.              |
+| **rue**        | Bitterly regret (something one has done or allowed to happen)         | **RUE** the day                                       | He will **rue** the day he crossed me.                         |
+| **solicitous** | Characterized by or showing interest or concern                       | **SOLICIT**-ous → **SOLICIT**ing care                 | The **solicitous** nurse checked on her patient every hour.    |
+| **console**    | Comfort (someone) at a time of grief or disappointment                | **CONSOLE** → **CON**-**SOL** (with sun/warmth)       | Friends gathered to **console** the widow after the funeral.   |
+
+### Emotional Extremes
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((Emotional Extremes))
-    Passionate
+  root((<font color=white>**Emotional Extremes**</font>))
+    {{_Passionate_}}
       **ardent**
-        Very passionate
+        (_Very passionate_)
       **fervid**
-        Very hot, heated
+        (_Very hot, heated_)
       **torrid**
-        Very hot, passionate
-    Excessive
+        (_Very hot, passionate_)
+    {{_Excessive_}}
       **cloying**
-        Disgustingly sweet
+        (_Disgustingly sweet_)
       **overwrought**
-        Overly nervous
+        (_Overly nervous_)
       **maudlin**
-        Excessively sentimental
+        (_Excessively sentimental_)
 ```
 
----
-
-## 📚 Vocabulary List
-
-| Word              | Definition                                                                                                              | Memory Hook                                                     | Example Sentence                                                                      |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| **ardent**        | Enthusiastic or passionate                                                                                              | **ARD**-ent → **HARD**-core fan                                 | He was an **ardent** supporter of the local football team.                            |
-| **blithe**        | Showing a casual and cheerful indifference considered to be callous or improper; happy                                  | **BLITHE** spirit → Light and happy                             | She showed a **blithe** disregard for the rules.                                      |
-| **circumspect**   | Wary and unwilling to take risks                                                                                        | **CIRCUM-SPECT** → **SPECT** (look) **CIRCUM** (around)         | The politician was **circumspect** in his answers to the press.                       |
-| **cloying**       | Disgustingly or excessively sweet or sentimental                                                                        | **CLOY**-ing → **C**hoke on j**OY** (too much sweet)            | The movie was ruined by a **cloying** romantic subplot.                               |
-| **console**       | Comfort (someone) at a time of grief or disappointment                                                                  | **CONSOLE** → **CON**-**SOL** (with sun/warmth)                 | Friends gathered to **console** the widow after the funeral.                          |
-| **contrite**      | Feeling or expressing remorse or penitence; affected by guilt                                                           | **CON-TRITE** → **TRITE** (worn out) with guilt                 | He was **contrite** after breaking his mother's favorite vase.                        |
-| **daunt**         | Make (someone) feel intimidated or apprehensive                                                                         | **DAUNT** → **DON'T** do it (scared)                            | The steep mountain did not **daunt** the experienced climbers.                        |
-| **detached**      | Separate or disconnected; aloof and objective                                                                           | **DE-TACH**-ed → Not **ATTACH**ed                               | He tried to remain **detached** and professional during the crisis.                   |
-| **dirge**         | A lament for the dead, especially one forming part of a funeral rite                                                    | **DIRGE** → **DIR**t grave song                                 | The slow, mournful **dirge** played as the coffin was lowered.                        |
-| **dispassionate** | Not influenced by strong emotion, and so able to be rational and impartial                                              | **DIS-PASSION**-ate → No **PASSION** (bias)                     | A judge must be **dispassionate** when hearing a case.                                |
-| **disquieting**   | Inducing feelings of anxiety or worry                                                                                   | **DIS-QUIET**-ing → Not **QUIET** (peaceful)                    | There was a **disquieting** silence in the room.                                      |
-| **ebullient**     | Cheerful and full of energy                                                                                             | **E-BULL**-ient → Like a **BULL** bubbling with energy          | Her **ebullient** personality made her the life of the party.                         |
-| **elated**        | Ecstatically happy                                                                                                      | **ELEVAT**-ed → Lifted up in spirit                             | She was **elated** when she found out she had been accepted into her dream college.   |
-| **elegy**         | A poem of serious reflection, typically a lament for the dead                                                           | **E-LEG**-y → **LEG**acy poem                                   | He wrote a moving **elegy** for his fallen comrades.                                  |
-| **equanimity**    | Mental calmness, composure, and evenness of temper, especially in a difficult situation                                 | **EQUA-NIM**-ity → **EQUA**l (balanced) **MIND**                | He accepted the bad news with **equanimity**.                                         |
-| **fervid**        | Intensely enthusiastic or passionate, especially to an excessive degree                                                 | **FERV**-id → **FEV**erish                                      | The candidate spoke with **fervid** intensity about the need for change.              |
-| **gambol**        | Run or jump about playfully                                                                                             | **GAMB**-ol → **GAMB**le (play) / **GAME**-ball                 | The lambs **gamboled** in the meadow.                                                 |
-| **grating**       | Sounding harsh and unpleasant; irritating                                                                               | **GRAT**-ing → Like a cheese **GRAT**er on nerves               | His **grating** voice annoyed everyone in the office.                                 |
-| **halcyon**       | Denoting a period of time in the past that was idyllically happy and peaceful                                           | **HALCYON** → **HAL**l of **CYON** (mythical bird calming seas) | She recalled the **halcyon** days of her youth.                                       |
-| **hotly**         | In an intense, fiery, or heated way                                                                                     | **HOT**-ly → With heat                                          | The issue was **hotly** debated in parliament.                                        |
-| **idyllic**       | (especially of a time or place) like an idyll; extremely happy, peaceful, or picturesque                                | **IDYLL**-ic → **IDLE** and perfect                             | They spent an **idyllic** vacation in a cottage by the sea.                           |
-| **impassive**     | Not feeling or showing emotion                                                                                          | **IM-PASS**-ive → **PASS**ive face                              | He remained **impassive** as the verdict was read.                                    |
-| **insensible**    | Without one's mental faculties, typically a result of violence or intoxication; unaware of                              | **IN-SENS**-ible → No **SENS**e/feeling                         | He was **insensible** to the pain after the shock.                                    |
-| **knell**         | The sound of a bell, especially when rung solemnly for a death or funeral                                               | **KNELL** → **K**ill be**LL**                                   | The closing of the factory sounded the death **knell** for the town.                  |
-| **lachrymose**    | Tearful or given to weeping                                                                                             | **LACHRY**-mose → **LACHRY**mal glands (tears)                  | The **lachrymose** movie left the entire audience in tears.                           |
-| **lament**        | A passionate expression of grief or sorrow                                                                              | **LAMENT** → **LAM**b la**MENT**ing                             | The nation **lamented** the death of its leader.                                      |
-| **leery**         | Cautious or wary due to realistic suspicions                                                                            | **LEER**-y → **LEER**ing suspiciously                           | I was **leery** of the deal because it sounded too good to be true.                   |
-| **livid**         | Furiously angry                                                                                                         | **LIVID** → **LIV**ing dead (pale with rage)                    | He was **livid** when he found out his car had been stolen.                           |
-| **lugubrious**    | Looking or sounding sad and dismal                                                                                      | **LUG**-ubrious → **LUG**ging grief around                      | The **lugubrious** music set a somber tone for the funeral.                           |
-| **lull**          | Calm or send to sleep, typically with soothing sounds or movements                                                      | **LULL**-aby                                                    | The rhythmic sound of the waves **lulled** him to sleep.                              |
-| **maudlin**       | Self-pityingly or tearfully sentimental, often through drunkenness                                                      | **MAUD**-lin → Mary **MAGD**alene weeping                       | After a few drinks, he became **maudlin** and started crying about his ex-girlfriend. |
-| **mirth**         | Amusement, especially as expressed in laughter                                                                          | **MIRTH** → **M**erriment and b**IRTH**day fun                  | The room was filled with **mirth** and laughter.                                      |
-| **morose**        | Sullen and ill-tempered                                                                                                 | **MOR**-ose → **MOR**bid/no **ROS**es                           | He became **morose** and withdrawn after losing his job.                              |
-| **nettle**        | Irritate or annoy (someone)                                                                                             | **NETTLE** → Stinging plant                                     | She was **nettled** by his constant criticism.                                        |
-| **nonchalant**    | (of a person or manner) feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm | **NON-CHAL**-ant → **NON**-**CAL**orie (light/easy)             | He was surprisingly **nonchalant** about winning the lottery.                         |
-| **overwrought**   | In a state of nervous excitement or anxiety                                                                             | **OVER-WROUGHT** → **OVER**-worked/twisted                      | The **overwrought** mother couldn't stop crying.                                      |
-| **pallid**        | (of a person's face) pale, typically because of poor health                                                             | **PALL**-id → **PALL**or (pale)                                 | Her face was **pallid** and drawn from her illness.                                   |
-| **penitent**      | Feeling or showing sorrow and regret for having done wrong; repentant                                                   | **PENIT**-ent → **PENIT**entiary (prison for sinners)           | The **penitent** thief returned the stolen money.                                     |
-| **placid**        | (of a person or animal) not easily upset or excited; calm                                                               | **PLAC**-id → **PLAC**ate (make calm)                           | The **placid** lake reflected the mountains like a mirror.                            |
-| **repose**        | A state of rest, sleep, or tranquility                                                                                  | **RE-POSE** → **RE**sting **POS**ition                          | The statue captured the figure in a state of **repose**.                              |
-| **rue**           | Bitterly regret (something one has done or allowed to happen)                                                           | **RUE** the day                                                 | He will **rue** the day he crossed me.                                                |
-| **sanguine**      | Optimistic or positive, especially in an apparently bad or difficult situation                                          | **SANGUIN** (blood) → Red-cheeked (healthy/happy)               | He remained **sanguine** about the company's future despite the recent losses.        |
-| **seraphic**      | Characteristic of or resembling a seraph or seraphim; angelic                                                           | **SERAPH**-ic → **SERAPH**im (angel)                            | The baby had a **seraphic** smile while sleeping.                                     |
-| **serene**        | Calm, peaceful, and untroubled; tranquil                                                                                | **SERENE** → **SIREN** (singing calmly)                         | The **serene** landscape painted a picture of perfect peace.                          |
-| **solicitous**    | Characterized by or showing interest or concern                                                                         | **SOLICIT**-ous → **SOLICIT**ing care                           | The **solicitous** nurse checked on her patient every hour.                           |
-| **sportive**      | Playful; lighthearted                                                                                                   | **SPORT**-ive → Like a **SPORT**                                | The **sportive** puppy chased its tail.                                               |
-| **stoic**         | A person who can endure pain or hardship without showing their feelings or complaining                                  | **STOIC** → **STO**ne-like                                      | He remained **stoic** throughout the funeral service.                                 |
-| **timorous**      | Showing or suffering from nervousness, fear, or a lack of confidence                                                    | **TIM**-orous → **TIM**id                                       | The **timorous** mouse scurried across the floor.                                     |
-| **torrid**        | Very hot and dry; full of difficulty or tribulation                                                                     | **TORR**-id → **TORR**id zone (equator)                         | They had a **torrid** love affair that ended badly.                                   |
-| **trepidation**   | A feeling of fear or agitation about something that may happen                                                          | **TREPID**-ation → **TRAP**ped feeling                          | She opened the letter with **trepidation**.                                           |
-| **umbrage**       | Offense or annoyance                                                                                                    | **UMBR**-age → **UMBR**ella (shade/shadow of offense)           | He took **umbrage** at her remarks about his weight.                                  |
-| **vex**           | Make (someone) feel annoyed, frustrated, or worried, especially with trivial matters                                    | **VEX** → **HEX** (curse/annoy)                                 | The math problem **vexed** the students for hours.                                    |
-| **wan**           | (of a person's complexion or appearance) pale and giving the impression of illness or exhaustion                        | **WAN** → **WAN**ing moon (pale)                                | She gave a **wan** smile as she lay in the hospital bed.                              |
-| **wary**          | Feeling or showing caution about possible dangers or problems                                                           | **WAR**-y → In a **WAR** zone (careful)                         | Be **wary** of strangers offering free candy.                                         |
+| Word            | Definition                                                              | Memory Hook                                          | Example Sentence                                                                      |
+| --------------- | ----------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **ardent**      | Enthusiastic or passionate                                              | **ARD**-ent → **HARD**-core fan                      | He was an **ardent** supporter of the local football team.                            |
+| **fervid**      | Intensely enthusiastic or passionate, especially to an excessive degree | **FERV**-id → **FEV**erish                           | The candidate spoke with **fervid** intensity about the need for change.              |
+| **torrid**      | Very hot and dry; full of difficulty or tribulation                     | **TORR**-id → **TORR**id zone (equator)              | They had a **torrid** love affair that ended badly.                                   |
+| **cloying**     | Disgustingly or excessively sweet or sentimental                        | **CLOY**-ing → **C**hoke on j**OY** (too much sweet) | The movie was ruined by a **cloying** romantic subplot.                               |
+| **overwrought** | In a state of nervous excitement or anxiety                             | **OVER-WROUGHT** → **OVER**-worked/twisted           | The **overwrought** mother couldn't stop crying.                                      |
+| **maudlin**     | Self-pityingly or tearfully sentimental, often through drunkenness      | **MAUD**-lin → Mary **MAGD**alene weeping            | After a few drinks, he became **maudlin** and started crying about his ex-girlfriend. |
 
 ---
 
-## 🌱 Etymology & Roots
+## Etymology & Roots
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((Roots))
-    **plac**
-    (calm/please)
-      placid
-        (calm)
-      complacent
-        (self-satisfied)
-    **path**
-    (feeling)
-      apathy
-        (no feeling)
-      sympathy
-        (feeling with)
-    **dol**
-    (pain)
-      doleful
-        (sad)
-      condolence
-        (suffering with)
-    **anim**
-    (spirit)
-      equanimity
-        (balanced spirit)
-      animosity
-        (hostile spirit)
-    **tim**
-    (fear)
-      timorous
-        (fearful)
-      intimidate
-        (cause fear)
-    **ferv**
-    (boil)
-      fervid
-        (boiling hot)
-      effervescent
-        (bubbling)
+  root((<font color=white>**Roots**</font>))
+    )**plac**</br>_calm/please_(
+      **placid**
+        (_calm_)
+      **complacent**
+        (_self-satisfied_)
+    )**path**</br>_feeling_(
+      **apathy**
+        (_no feeling_)
+      **sympathy**
+        (_feeling with_)
+    )**dol**</br>_pain_(
+      **doleful**
+        (_sad_)
+      **condolence**
+        (_suffering with_)
+    )**anim**</br>_spirit_(
+      **equanimity**
+        (_balanced spirit_)
+      **animosity**
+        (_hostile spirit_)
+    )**tim**</br>_fear_(
+      **timorous**
+        (_fearful_)
+      **intimidate**
+        (_cause fear_)
+    )**ferv**</br>_boil_(
+      **fervid**
+        (_boiling hot_)
+      **effervescent**
+        (_bubbling_)
 ```

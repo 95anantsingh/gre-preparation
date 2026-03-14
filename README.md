@@ -3,35 +3,54 @@
 ## 🗺️ Master Overview
 
 ```mermaid
+%%{
+  init: {
+    "theme": "base",
+    "themeVariables": {
+      "primaryColor": "#000000",
+      "cScale1": "#e8808f",  "cScaleInv1": "#a33445",
+      "cScale2": "#7bb8e0",  "cScaleInv2": "#266a93",
+      "cScale3": "#6db993",  "cScaleInv3": "#23543f",
+      "cScale4": "#f5d07a",  "cScaleInv4": "#c4903b",
+      "cScale5": "#b08fcc",  "cScaleInv5": "#5d3b75",
+      "cScale6": "#74dace",  "cScaleInv6": "#217d72",
+      "cScale7": "#f09570",  "cScaleInv7": "#b84112",
+      "cScale8": "#8ea8c2",  "cScaleInv8": "#32465e",
+      "cScale9": "#cc7fba",  "cScaleInv9": "#7d2868",
+      "cScale10": "#c99a78", "cScaleInv10": "#7c4e32",
+      "cScale11": "#a3a3a3", "cScaleInv11": "#3d3d3d"
+    }
+  }
+}%%
 mindmap
-  root((GRE Vocabulary))
-    Criticism & Praise
+  root((<font color=white>**GRE Vocabulary**</font>))
+    {{**Criticism & Praise**}}
       01 Criticism & Disapproval
       02 Praise & Admiration
-    Character Traits
+    {{**Character Traits**}}
       03 Positive Personality
       04 Negative Personality
-    Communication
+    {{**Communication**}}
       05 Argument & Persuasion
       10 Speech & Communication
       12 Knowledge & Ignorance
-    Inner Life
+    {{**Inner Life**}}
       07 Emotion & Feeling
       14 Judgment & Decision
-    Ethics & Deception
+    {{**Ethics & Deception**}}
       08 Deception & Trickery
       09 Power & Authority
-    Change & Time
+    {{**Change & Time**}}
       06 Change & Movement
       15 Time & Duration
-    Society & World
+    {{**Society & World**}}
       11 Wealth & Poverty
       13 Society & Culture
       16 Physical World & Nature
-    Actions & Measurement
+    {{**Actions & Measurement**}}
       17 Actions & Behaviors
       18 Quantity & Degree
-    Connections & Balance
+    {{**Connections & Balance**}}
       19 Connections & Relationships
       20 Moderation & Restraint
 ```
@@ -62,26 +81,3 @@ mindmap
 | 18  | 📏 [Quantity, Size, Degree & Comparisons](mindmaps/18-quantity-size-and-degree.md)        | `mindmaps/18-quantity-size-and-degree.md`      | Abundance, scarcity, scale, modifiers           | ~50    |
 | 19  | 🔗 [Connections, Relationships & Influence](mindmaps/19-connections-and-relationships.md) | `mindmaps/19-connections-and-relationships.md` | Supporting, hindering, tendencies, fortune      | ~55    |
 | 20  | ⚖️ [Moderation, Restraint & Remaining](mindmaps/20-moderation-and-restraint.md)           | `mindmaps/20-moderation-and-restraint.md`      | Balance, reconciliation, clichés, miscellaneous | ~100   |
-
----
-
-## 🔑 Key Root Words for GRE
-
-| Root             | Meaning         | Example Words                     |
-| ---------------- | --------------- | --------------------------------- |
-| **bene-**        | good            | beneficent, benign                |
-| **mal-**         | bad             | malediction, malinger             |
-| **magn-**        | great           | magnanimous, magnate              |
-| **laud-**        | praise          | laudable                          |
-| **voc/loqu-**    | speak           | vociferous, loquacious, eloquent  |
-| **cred-**        | believe         | credulous, credibility            |
-| **path-**        | feeling/disease | apathy, pathogenic, empathy       |
-| **chron-**       | time            | chronological, anachronism        |
-| **graph/scrib-** | write           | cartography, ascribe, proscribe   |
-| **duc/duct-**    | lead            | conducive, induct                 |
-| **fid-**         | faith           | fidelity, perfidious              |
-| **gen-**         | birth/produce   | engender, pathogenic              |
-| **mort/mors-**   | death           | amortize                          |
-| **aud-**         | hear/bold       | audacious                         |
-| **spec-**        | look            | specious, perspicacious, spectrum |
-| **ver-**         | truth           | veracity, aver, verisimilar       |
